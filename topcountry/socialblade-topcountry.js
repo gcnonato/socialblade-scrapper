@@ -3,25 +3,6 @@ var request = require("request"),
     cheerio = require("cheerio"),
     url = "http://socialblade.com/youtube/top/country/ES";
 
-var scraper = {
-    iterator: 'div.TableMonthlyStats',
-    data: {
-        title: {
-            sel: 'a'
-        },
-        url: {
-            sel: 'a',
-            attr: 'href'
-        },
-        subs: {
-          sel: '+ .TableMonthlyStats',
-          method: function($) {
-            return $(this).find('span').text();
-          }
-        }
-    }
-};
-
 var replaceAll = function(find, replace, str) {
   var find = find.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
   return str.replace(new RegExp(find, 'g'), replace);
