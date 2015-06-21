@@ -11,7 +11,7 @@
     "url": "https://github.com/alrocar/socialblade-scrapper"
   },
   "keywords": ["socialblade", "youtube", "topchannels", "topvideos"],
-  "author": "alrocar",
+  "author": "https://github.com/alrocar",
   "license": "APACHE2",
   "dependencies": {
     "cheerio": "^0.19.0",
