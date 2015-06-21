@@ -1,5 +1,7 @@
 var fs = require('fs');
 var request = require("request"),
+requestSync = require("sync-request"),
+sleep = require("sleep"),
     _url = "http://socialblade.com/youtube/user/",
     _url2 = "/videos/mostviewed";
 
@@ -8,6 +10,7 @@ var topchannel = function() {};
 topchannel.prototype.request = function(dir, userName, youtubeApiKey) {
     var url = _url + userName + _url2;
     console.log(url);
+    var self = this;
 
     var channelID = 'https://www.googleapis.com/youtube/v3/channels?key=' + youtubeApiKey + '&forUsername=' + userName + '&part=id';
     request(channelID, function(error, response, body) {
@@ -40,8 +43,8 @@ topchannel.prototype.request = function(dir, userName, youtubeApiKey) {
 
             request.post(options, function(error, response, body) {
                 if (!error) {
+                    var es = self.downloadSnippet(JSON.parse(body), youtubeApiKey);
                     var output = 'top_videos_' + userName + '.json';
-                    var es = JSON.parse(body);
                     fs.writeFile(dir + '/' + output, JSON.stringify(es, null, 4), function(err) {
                         console.log('File successfully written! - Check your project directory for the ' + output + ' file');
                     });
@@ -54,6 +57,57 @@ topchannel.prototype.request = function(dir, userName, youtubeApiKey) {
             console.log(ignore);
         }
     });
+};
+
+topchannel.prototype.downloadSnippet = function(result, youtubeApiKey) {
+    var video, videoId, snippet;
+    var completeResult = [];
+    for (var i = 0, l = result.length; i<l; i++) {
+        try {
+            video = result[i];
+            videoId = video.videoId;
+            if (videoId) {
+                sleep.sleep(2);
+                snippet = this.downloadFromYT(videoId, youtubeApiKey);
+                // console.log(snippet);
+                if (snippet.items && snippet.items.length && videoId == snippet.items[0].id.videoId) {
+                    video.snippet = snippet.items[0].snippet;
+                    completeResult.push(video);
+                } else {
+                    console.log('video not found on Youtube');
+                }
+            }
+        } catch (ignore) {
+            console.log('error on downloadSnippet');
+            console.log(ignore);
+        }
+    }
+
+    var es = {
+        videos: completeResult
+    };
+
+    return es;
+};
+
+function prepareId(videoId) {
+    if (!videoId) {
+        return '';
+    }
+
+    if (videoId.indexOf('-') == 0) {
+        videoId = videoId.substring(1, videoId.length - 1);
+    }
+
+    return videoId;
+};
+
+topchannel.prototype.downloadFromYT = function(videoId, youtubeApiKey) {
+    videoId = prepareId(videoId);
+    var url = 'https://www.googleapis.com/youtube/v3/search?part=id%2Csnippet&q=' + videoId + '&maxResults=1&key=' + youtubeApiKey;
+    console.log(url);
+    var res = requestSync('GET', url);
+    return JSON.parse(res.getBody());
 };
 
 exports = module.exports = topchannel;
