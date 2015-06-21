@@ -5,7 +5,7 @@ var request = require("request"),
     topchannel = require("../topchannel/socialblade-topchannel.js"),
     url = ('http://socialblade.com/youtube/top/country/' + process.argv[2]) || "http://socialblade.com/youtube/top/country/ES";
 
-var API_KEY = process.argv[3];//'AIzaSyDCgdFhkaVNUurakbvgB8ALL8nP0KFcbqk';
+var API_KEY = process.argv[3]; //'AIzaSyDCgdFhkaVNUurakbvgB8ALL8nP0KFcbqk';
 
 var replaceAll = function(find, replace, str) {
     var find = find.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
@@ -50,7 +50,11 @@ topcountry.prototype.request = function(url) {
 
             var countryCode = getCountryCode(url);
             var output = 'top_channels_' + countryCode + '.json';
-            fs.mkdirSync(countryCode);
+
+            if (!fs.existsSync(countryCode)) {
+                fs.mkdirSync(countryCode);
+            }
+            
             fs.writeFile(output, JSON.stringify(es, null, 4), function(err) {
                 console.log('File successfully written! - Check your project directory for the ' + output + ' file');
             });
@@ -70,11 +74,10 @@ topcountry.prototype.download = function(folder, result) {
     setTimeout(function() {
         if (result.length) {
             var t = new topchannel();
-            t.request(folder, result[0].usr, API_KEY, function() {
-                result.shift();
-                var tt = new topcountry();
-                tt.download(folder, result);
-            });
+            t.request(folder, result[0].usr, API_KEY);
+            result.shift();
+            var tt = new topcountry();
+            tt.download(folder, result);
         } else {
             console.log('DONE');
         }
