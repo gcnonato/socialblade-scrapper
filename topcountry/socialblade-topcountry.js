@@ -46,7 +46,9 @@ topcountry.prototype.request = function(url) {
                         try {
                             sleep.sleep(2);
                             var channelInfo = self.downloadChannelInfo(text, API_KEY);
-                            ch.channelInfo = channelInfo;
+                            if (channelInfo) {
+                                ch.channelInfo = channelInfo;    
+                            }
                         } catch (ignore) {
                             console.log(ignore);
                         }
@@ -82,18 +84,23 @@ topcountry.prototype.request = function(url) {
 };
 
 topcountry.prototype.downloadChannelInfo = function(channelName, youtubeApiKey) {
-    console.log('downloading channel info: ' + channelName);
-    var urlID = 'https://www.googleapis.com/youtube/v3/channels?key=' + youtubeApiKey + '&forUsername=' + channelName + '&part=id';
-    console.log(urlID);
-    var res = syncRequest('GET', urlID);
+    try {
+        console.log('downloading channel info: ' + channelName);
+        var urlID = 'https://www.googleapis.com/youtube/v3/channels?key=' + youtubeApiKey + '&forUsername=' + channelName + '&part=id';
+        console.log(urlID);
+        var res = syncRequest('GET', urlID);
 
-    var channelId = JSON.parse(res.getBody()).items[0].id;
+        var channelId = JSON.parse(res.getBody()).items[0].id;
 
-    var urlComplete = 'https://www.googleapis.com/youtube/v3/channels?key=' + youtubeApiKey + '&id=' + channelId + '&part=id,snippet,brandingSettings,contentDetails,invideoPromotion,statistics,topicDetails';
-    console.log(urlComplete);
-    res = syncRequest('GET', urlComplete);
+        var urlComplete = 'https://www.googleapis.com/youtube/v3/channels?key=' + youtubeApiKey + '&id=' + channelId + '&part=id,snippet,brandingSettings,contentDetails,invideoPromotion,statistics,topicDetails';
+        console.log(urlComplete);
+        res = syncRequest('GET', urlComplete);
 
-    return JSON.parse(res.getBody()).items[0];
+        return JSON.parse(res.getBody()).items[0];
+    } catch (ignore) {
+        console.log(ignore);
+        return null;
+    }
 };
 
 topcountry.prototype.download = function(folder, result) {
