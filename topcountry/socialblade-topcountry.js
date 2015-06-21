@@ -1,7 +1,7 @@
 var fs = require('fs');
 var request = require("request"),
     cheerio = require("cheerio"),
-    url = process.argv[2] || "http://socialblade.com/youtube/top/country/ES";
+    url = ('http://socialblade.com/youtube/top/country/' + process.argv[2]) || "http://socialblade.com/youtube/top/country/ES";
 
 var replaceAll = function(find, replace, str) {
     var find = find.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
