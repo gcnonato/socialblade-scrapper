@@ -5,7 +5,7 @@ var request = require("request"),
 
 var topchannel = {};
 
-topchannel.request = function(userName) {
+topchannel.request = function(userName, callback) {
     var url = _url + userName + _url2;
     var options = {
         'url': 'http://socialblade.com/js/jquery/class/youtube-video-mostviewed',
@@ -38,6 +38,7 @@ topchannel.request = function(userName) {
         } else {
             console.log("We’ve encountered an error: " + error);
         }
+        callback();
     });
 };
 
