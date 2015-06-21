@@ -1,9 +1,11 @@
 var fs = require('fs');
 var request = require("request"),
     cheerio = require("cheerio"),
-    download = process.argv[3],
+    download = process.argv[4],
     topchannel = require("../topchannel/socialblade-topchannel.js"),
     url = ('http://socialblade.com/youtube/top/country/' + process.argv[2]) || "http://socialblade.com/youtube/top/country/ES";
+
+var API_KEY = process.argv[3];//'AIzaSyDCgdFhkaVNUurakbvgB8ALL8nP0KFcbqk';
 
 var replaceAll = function(find, replace, str) {
     var find = find.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
@@ -19,9 +21,9 @@ var getCountryCode = function(url) {
     return parts[parts.length - 1];
 };
 
-var topcountry = {};
+var topcountry = function() {};
 
-topcountry.request = function(url) {
+topcountry.prototype.request = function(url) {
     request(url, function(error, response, body) {
         if (!error) {
             var $ = cheerio.load(body);
@@ -52,7 +54,8 @@ topcountry.request = function(url) {
             });
 
             if (download) {
-                topcountry.download(result);
+                var t = new topcountry();
+                t.download(result);
             }
         } else {
             console.log("We’ve encountered an error: " + error);
@@ -60,16 +63,23 @@ topcountry.request = function(url) {
     });
 };
 
-topcountry.download = function(result) {
-    for (var i = 0, l = result.length; i < l; i++) {
-        var usr = result[i].usr;
-        console.log(usr);
-        topchannel.request(usr);
-        //don't flood socialblade plz
-        setTimeout(5000);
-    }
+topcountry.prototype.download = function(result) {
+    console.log(result.length);
+    setTimeout(function() {
+        if (result.length) {
+            var t = new topchannel();
+            t.request(result[0].usr, API_KEY, function() {
+                result.shift();
+                var tt = new topcountry();
+                tt.download(result);
+            });
+        } else {
+            console.log('DONE');
+        }
+    }, 5000);
 };
 
-topcountry.request(url);
+var ttt = new topcountry();
+ttt.request(url);
 
 exports = module.exports = topcountry;

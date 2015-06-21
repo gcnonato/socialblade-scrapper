@@ -16,8 +16,6 @@ topchannel.prototype.request = function(userName, youtubeApiKey, callback) {
             return;
         }
 
-        console.log(body);
-
         var options = {
             'url': 'http://socialblade.com/js/jquery/class/youtube-video-mostviewed',
             formData: {

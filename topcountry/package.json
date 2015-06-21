@@ -4,7 +4,7 @@
   "description": "Scraps http://socialblade.com/youtube/top/country/COUNTRY_CODE pages from SocialBlade",
   "main": "socialblade-topcountry.js",
   "scripts": {
-    "test": "node socialblade-topcountry.js US true"
+    "test": "node socialblade-topcountry.js US YOUTUBE_API_KEY true"
   },
   "repository": {
     "type": "git",
