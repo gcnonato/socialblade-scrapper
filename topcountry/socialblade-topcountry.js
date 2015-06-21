@@ -1,6 +1,8 @@
 var fs = require('fs');
 var request = require("request"),
     cheerio = require("cheerio"),
+    download = process.argv[3],
+    topchannel = require("../topchannel/socialblade-topchannel.js"),
     url = ('http://socialblade.com/youtube/top/country/' + process.argv[2]) || "http://socialblade.com/youtube/top/country/ES";
 
 var replaceAll = function(find, replace, str) {
@@ -49,11 +51,24 @@ topcountry.request = function(url) {
                 console.log('File successfully written! - Check your project directory for the ' + output + ' file');
             });
 
+            if (download) {
+                topcountry.download(result);
+            }
         } else {
             console.log("We’ve encountered an error: " + error);
         }
     });
-}
+};
+
+topcountry.download = function(result) {
+    for (var i = 0, l = result.length; i < l; i++) {
+        var usr = result[i].usr;
+        console.log(usr);
+        topchannel.request(usr);
+        //don't flood socialblade plz
+        setTimeout(5000);
+    }
+};
 
 topcountry.request(url);
 
