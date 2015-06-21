@@ -44,7 +44,7 @@ topcountry.prototype.request = function(url) {
                         ch.views = replaceAll(',', '', $(this).next('div').next('div').find('span').text());
 
                         try {
-                            sleep.sleep(5);
+                            sleep.sleep(2);
                             var channelInfo = self.downloadChannelInfo(text, API_KEY);
                             ch.channelInfo = channelInfo;
                         } catch (ignore) {
@@ -84,11 +84,13 @@ topcountry.prototype.request = function(url) {
 topcountry.prototype.downloadChannelInfo = function(channelName, youtubeApiKey) {
     console.log('downloading channel info: ' + channelName);
     var urlID = 'https://www.googleapis.com/youtube/v3/channels?key=' + youtubeApiKey + '&forUsername=' + channelName + '&part=id';
+    console.log(urlID);
     var res = syncRequest('GET', urlID);
 
     var channelId = JSON.parse(res.getBody()).items[0].id;
 
     var urlComplete = 'https://www.googleapis.com/youtube/v3/channels?key=' + youtubeApiKey + '&id=' + channelId + '&part=id,snippet,brandingSettings,contentDetails,invideoPromotion,statistics,topicDetails';
+    console.log(urlComplete);
     res = syncRequest('GET', urlComplete);
 
     return JSON.parse(res.getBody()).items[0];
