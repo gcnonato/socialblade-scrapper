@@ -1,15 +1,15 @@
 var fs = require('fs');
 var request = require("request"),
     cheerio = require("cheerio"),
-    url = "http://socialblade.com/youtube/user/" + process.argv[2];
-var completeUrl = url + "/videos/mostviewed";
+    _url = "http://socialblade.com/youtube/user/" + process.argv[2];
+var completeUrl = _url + "/videos/mostviewed";
 
 var replaceAll = function(find, replace, str) {
     var find = find.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
     return str.replace(new RegExp(find, 'g'), replace);
 };
 
-var getUsreName = function(url) {
+var getUserName = function(url) {
     if (!url) {
         return '';
     }
@@ -20,7 +20,7 @@ var getUsreName = function(url) {
 
 var topchannel = {};
 
-topcountry.request = function(url) {
+topchannel.request = function(url) {
     request(url, function(error, response, body) {
         if (!error) {
             var $ = cheerio.load(body);
@@ -51,7 +51,7 @@ topcountry.request = function(url) {
                 videos: result
             };
 
-            var output = 'top_videos_' + getUserName(url) + '.json';
+            var output = 'top_videos_' + getUserName(_url) + '.json';
             fs.writeFile(output, JSON.stringify(es, null, 4), function(err) {
                 console.log('File successfully written! - Check your project directory for the ' + output + ' file');
             });
