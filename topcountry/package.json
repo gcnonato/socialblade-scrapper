@@ -1,16 +1,16 @@
 {
   "name": "socialblade-topcountry",
   "version": "1.0.0",
-  "description": "",
+  "description": "Scraps http://socialblade.com/youtube/top/country/COUNTRY_CODE pages from SocialBlade",
   "main": "socialblade-topcountry.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"node socialblade-topcountry.js http://socialblade.com/youtube/top/country/US\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/alrocar/socialblade-scrapper"
   },
-  "keywords": [],
+  "keywords": ["socialblade", "youtube", "topchannels", "topvideos"],
   "author": "alrocar",
   "license": "APACHE2",
   "dependencies": {
