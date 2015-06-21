@@ -48,14 +48,16 @@ topcountry.prototype.request = function(url) {
                 channels: result
             };
 
-            var output = 'top_channels_' + getCountryCode(url) + '.json';
+            var countryCode = getCountryCode(url);
+            var output = 'top_channels_' + countryCode + '.json';
+            fs.mkdirSync(countryCode);
             fs.writeFile(output, JSON.stringify(es, null, 4), function(err) {
                 console.log('File successfully written! - Check your project directory for the ' + output + ' file');
             });
 
             if (download) {
                 var t = new topcountry();
-                t.download(result);
+                t.download(countryCode, result);
             }
         } else {
             console.log("We’ve encountered an error: " + error);
@@ -63,15 +65,15 @@ topcountry.prototype.request = function(url) {
     });
 };
 
-topcountry.prototype.download = function(result) {
+topcountry.prototype.download = function(folder, result) {
     console.log(result.length);
     setTimeout(function() {
         if (result.length) {
             var t = new topchannel();
-            t.request(result[0].usr, API_KEY, function() {
+            t.request(folder, result[0].usr, API_KEY, function() {
                 result.shift();
                 var tt = new topcountry();
-                tt.download(result);
+                tt.download(folder, result);
             });
         } else {
             console.log('DONE');

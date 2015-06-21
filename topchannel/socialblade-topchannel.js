@@ -5,7 +5,7 @@ var request = require("request"),
 
 var topchannel = function() {};
 
-topchannel.prototype.request = function(userName, youtubeApiKey, callback) {
+topchannel.prototype.request = function(dir, userName, youtubeApiKey, callback) {
     var url = _url + userName + _url2;
     console.log(url);
 
@@ -41,7 +41,7 @@ topchannel.prototype.request = function(userName, youtubeApiKey, callback) {
             if (!error) {
                 var output = 'top_videos_' + userName + '.json';
                 var es = JSON.parse(body);
-                fs.writeFile(output, JSON.stringify(es, null, 4), function(err) {
+                fs.writeFile(dir + '/' + output, JSON.stringify(es, null, 4), function(err) {
                     console.log('File successfully written! - Check your project directory for the ' + output + ' file');
                 });
             } else {
