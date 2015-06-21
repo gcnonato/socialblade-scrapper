@@ -80,6 +80,7 @@ topcountry.prototype.download = function(folder, result) {
             tt.download(folder, result);
         } else {
             console.log('DONE');
+            process.exit(1);
         }
     }, 5000);
 };
