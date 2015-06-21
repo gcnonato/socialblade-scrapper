@@ -8,6 +8,15 @@ var replaceAll = function(find, replace, str) {
     return str.replace(new RegExp(find, 'g'), replace);
 };
 
+var getCountryCode = function(url) {
+  if (!url) {
+    return '';
+  }
+
+  var parts = url.split('/');
+  return parts[parts.length - 1];
+};
+
 request(url, function(error, response, body) {
     if (!error) {
         var $ = cheerio.load(body);
@@ -32,8 +41,9 @@ request(url, function(error, response, body) {
             channels: result
         };
 
-        fs.writeFile('output.json', JSON.stringify(es, null, 4), function(err) {
-            console.log('File successfully written! - Check your project directory for the output.json file');
+        var output = 'top_channels_' + getCountryCode(url) + '.json';
+        fs.writeFile(output, JSON.stringify(es, null, 4), function(err) {
+            console.log('File successfully written! - Check your project directory for the ' + output + ' file');
         });
 
     } else {
