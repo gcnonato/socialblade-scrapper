@@ -3,10 +3,11 @@ var request = require("request"),
     _url = "http://socialblade.com/youtube/user/",
     _url2 = "/videos/mostviewed";
 
-var topchannel = {};
+var topchannel = function() {};
 
-topchannel.request = function(userName, callback) {
+topchannel.prototype.request = function(userName, callback) {
     var url = _url + userName + _url2;
+    console.log(url);
     var options = {
         'url': 'http://socialblade.com/js/jquery/class/youtube-video-mostviewed',
         formData: {
