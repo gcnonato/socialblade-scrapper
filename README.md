@@ -8,4 +8,6 @@ Usage:
 `npm install`<br>
 `node socialblade-topcountry.js COUNTRY_CODE YOUTUBE_APIKEY true`
 
-See top_channels_ES.json for an example
+See <b>topcountry/top_channels_ES.json</b> for an example.
+
+Credits for http://socialblade.com
