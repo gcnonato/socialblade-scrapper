@@ -1,27 +1,14 @@
 var fs = require('fs');
 var request = require("request"),
-    _url = "http://socialblade.com/youtube/user/" + process.argv[2];
-var completeUrl = _url + "/videos/mostviewed";
-
-var replaceAll = function(find, replace, str) {
-    var find = find.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
-    return str.replace(new RegExp(find, 'g'), replace);
-};
-
-var getUserName = function(url) {
-    if (!url) {
-        return '';
-    }
-
-    var parts = url.split('/');
-    return parts[parts.length - 1];
-};
+    _url = "http://socialblade.com/youtube/user/",
+    _url2 = "/videos/mostviewed";
 
 var topchannel = {};
 
-topchannel.request = function(url) {
+topchannel.request = function(userName) {
+    var url = _url + userName + _url2;
     var options = {
-        url: 'http://socialblade.com/js/jquery/class/youtube-video-mostviewed',
+        'url': 'http://socialblade.com/js/jquery/class/youtube-video-mostviewed',
         formData: {
             channelid: 'UCam8T03EOFBsNdR0thrFHdQ'
         },
@@ -43,7 +30,7 @@ topchannel.request = function(url) {
 
     request.post(options, function(error, response, body) {
         if (!error) {
-            var output = 'top_videos_' + getUserName(_url) + '.json';
+            var output = 'top_videos_' + userName + '.json';
             var es = JSON.parse(body);
             fs.writeFile(output, JSON.stringify(es, null, 4), function(err) {
                 console.log('File successfully written! - Check your project directory for the ' + output + ' file');
@@ -53,7 +40,5 @@ topchannel.request = function(url) {
         }
     });
 };
-
-topchannel.request(completeUrl);
 
 exports = module.exports = topchannel;
