@@ -24,6 +24,12 @@ var getCountryCode = function(url) {
     return parts[parts.length - 1];
 };
 
+var createDir = function(dir) {
+    if (!fs.existsSync(dir)) {
+        fs.mkdirSync(dir);
+    }
+};
+
 var topcountry = function() {};
 
 topcountry.prototype.request = function(url) {
@@ -48,7 +54,7 @@ topcountry.prototype.request = function(url) {
                             sleep.sleep(2);
                             var channelInfo = self.downloadChannelInfo(text, API_KEY);
                             if (channelInfo) {
-                                ch.channelInfo = channelInfo;    
+                                ch.channelInfo = channelInfo;
                             }
                         } catch (ignore) {
                             console.log(ignore);
@@ -66,9 +72,7 @@ topcountry.prototype.request = function(url) {
             var countryCode = getCountryCode(url);
             var output = 'top_channels_' + countryCode + '.json';
 
-            if (!fs.existsSync(countryCode)) {
-                fs.mkdirSync(countryCode);
-            }
+            createDir(countryCode);
 
             fs.writeFileSync(output, JSON.stringify(es, null, 4));
 
@@ -124,6 +128,7 @@ var ttt = new topcountry();
 if (directDownload) {
     var countryCode = getCountryCode(url);
     var obj = JSON.parse(fs.readFileSync('top_channels_' + countryCode + '.json', 'utf8')).channels;
+    createDir(countryCode);
     ttt.download(countryCode, obj);
 } else {
     ttt.request(url);
