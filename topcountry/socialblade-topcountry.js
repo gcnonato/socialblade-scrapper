@@ -69,10 +69,9 @@ topcountry.prototype.request = function(url) {
                 fs.mkdirSync(countryCode);
             }
 
-            fs.writeFileSync(output, JSON.stringify(es, null, 4), function(err) {
-                console.log('File successfully written! - Check your project directory for the ' + output + ' file');
-                fs.close(output);
-            });
+            fs.writeFileSync(output, JSON.stringify(es, null, 4));
+
+            console.log('File successfully written! - Check your project directory for the ' + output + ' file');
             fs.close(output);
 
             if (download) {

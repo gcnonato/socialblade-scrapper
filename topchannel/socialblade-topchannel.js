@@ -46,11 +46,10 @@ topchannel.prototype.request = function(dir, userName, youtubeApiKey) {
                     var es = self.downloadSnippet(JSON.parse(body), youtubeApiKey);
                     var output = 'top_videos_' + userName + '.json';
                     var fn = dir + '/' + output;
-                    fs.writeFileSync(fn, JSON.stringify(es, null, 4), function(err) {
-                        console.log('File successfully written! - Check your project directory for the ' + output + ' file');
-                        fs.close(fn);
-                    });
-                    fs.close(fn);
+                    fs.writeFileSync(fn, JSON.stringify(es, null, 4));
+                
+                    console.log('File successfully written! - Check your project directory for the ' + output + ' file');
+                    fs.close(fn);                    
                 } else {
                     console.log("We’ve encountered an error: " + error);
                 }
