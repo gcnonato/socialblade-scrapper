@@ -4,6 +4,7 @@ var request = require("request"),
     cheerio = require("cheerio"),
     sleep = require("sleep"),
     download = process.argv[4],
+    directDownload = process.argv[5],
     topchannel = require("../topchannel/socialblade-topchannel.js"),
     url = ('http://socialblade.com/youtube/top/country/' + process.argv[2]) || "http://socialblade.com/youtube/top/country/ES";
 
@@ -120,6 +121,12 @@ topcountry.prototype.download = function(folder, result) {
 };
 
 var ttt = new topcountry();
-ttt.request(url);
+if (directDownload) {
+    var countryCode = getCountryCode(url);
+    var obj = JSON.parse(fs.readFileSync('top_channels_' + countryCode + '.json', 'utf8')).channels;
+    ttt.download(countryCode, obj);
+} else {
+    ttt.request(url);
+}
 
 exports = module.exports = topcountry;
