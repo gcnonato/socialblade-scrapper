@@ -10,4 +10,12 @@ Usage:
 
 See <b>topcountry/top_channels_ES.json</b> for an example.
 
+You'll probably need to set ulimit to a higher value, if an error like this happens:
+
+`{ [Error: spawn EMFILE] code: 'EMFILE', errno: 'EMFILE', syscall: 'spawn' }`
+
+try this:
+
+`ulimit -n 1000`
+
 Credits for http://socialblade.com
