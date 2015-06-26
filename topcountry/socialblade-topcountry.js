@@ -72,7 +72,6 @@ topcountry.prototype.request = function(url) {
             fs.writeFileSync(output, JSON.stringify(es, null, 4));
 
             console.log('File successfully written! - Check your project directory for the ' + output + ' file');
-            fs.close(output);
 
             if (download) {
                 var t = new topcountry();

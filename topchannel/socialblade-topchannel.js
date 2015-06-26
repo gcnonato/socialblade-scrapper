@@ -49,7 +49,6 @@ topchannel.prototype.request = function(dir, userName, youtubeApiKey) {
                     fs.writeFileSync(fn, JSON.stringify(es, null, 4));
                 
                     console.log('File successfully written! - Check your project directory for the ' + output + ' file');
-                    fs.close(fn);                    
                 } else {
                     console.log("We’ve encountered an error: " + error);
                 }
