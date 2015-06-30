@@ -1,6 +1,6 @@
 # socialblade-scrapper
 
-Scraps the socialblade top channels per country page and returns a JSON file
+Scraps the socialblade top channels per country page and returns a JSON file. Then uses socialblade and Youtube Data API to get the top 100 videos of each channel and their metadata.
 
 Usage:
 
