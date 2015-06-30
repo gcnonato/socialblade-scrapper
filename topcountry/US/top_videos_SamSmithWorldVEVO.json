@@ -1,0 +1,1241 @@
+{
+    "videos": [
+        {
+            "videoId": "pB-5XG-DbAA",
+            "title": "Sam Smith - Stay With Me",
+            "created_at": "2014-03-28",
+            "comments": "70008",
+            "duration": "PT3M30S",
+            "views": "380623016",
+            "ratings": 1627124,
+            "rating": "96.5",
+            "snippet": {
+                "publishedAt": "2014-03-28T00:00:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Stay With Me",
+                "description": "Sam Smith's debut album 'In The Lonely Hour' featuring 'Stay With Me', 'Money On My Mind', 'Lay Me Down', 'Like I Can' and 'I'm Not The Only One' is out now ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pB-5XG-DbAA/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pB-5XG-DbAA/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pB-5XG-DbAA/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "nCkpzqqog4k",
+            "title": "Sam Smith - I'm Not The Only One",
+            "created_at": "2014-08-01",
+            "comments": "56994",
+            "duration": "PT4M40S",
+            "views": "337558918",
+            "ratings": 1326008,
+            "rating": "96.9",
+            "snippet": {
+                "publishedAt": "2014-08-01T10:00:04.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - I'm Not The Only One",
+                "description": "Sam Smith's debut album 'In The Lonely Hour' featuring 'Stay With Me', 'Money On My Mind', 'Lay Me Down', 'Like I Can' and 'I'm Not The Only One' is out now ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nCkpzqqog4k/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nCkpzqqog4k/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nCkpzqqog4k/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "HaMq2nn5ac0",
+            "title": "Sam Smith - Lay Me Down",
+            "created_at": "2015-02-05",
+            "comments": "26743",
+            "duration": "PT4M10S",
+            "views": "79550627",
+            "ratings": 562572,
+            "rating": "96.1",
+            "snippet": {
+                "publishedAt": "2015-02-05T11:00:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Lay Me Down",
+                "description": "'Lay Me Down' is officially out now: http://po.st/SnYabR Sam Smith's debut album 'In The Lonely Hour' is out now: http://po.st/bRrkMm Directed by Ryan Hope ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HaMq2nn5ac0/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HaMq2nn5ac0/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HaMq2nn5ac0/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "K0G9T5Bnjlc",
+            "title": "Sam Smith - Money On My Mind",
+            "created_at": "2014-01-13",
+            "comments": "11572",
+            "duration": "PT3M33S",
+            "views": "62065225",
+            "ratings": 275178,
+            "rating": "95.8",
+            "snippet": {
+                "publishedAt": "2014-01-13T00:00:00.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Money On My Mind",
+                "description": "Sam Smith's debut album 'In The Lonely Hour' featuring 'Stay With Me', 'Money On My Mind', 'Lay Me Down', 'Like I Can' and 'I'm Not The Only One' is out now ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K0G9T5Bnjlc/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K0G9T5Bnjlc/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K0G9T5Bnjlc/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "182TRJq9Zt8",
+            "title": "Sam Smith - Leave Your Lover",
+            "created_at": "2014-05-22",
+            "comments": "7101",
+            "duration": "PT3M10S",
+            "views": "34491671",
+            "ratings": 158687,
+            "rating": "97.5",
+            "snippet": {
+                "publishedAt": "2014-05-22T23:01:00.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Leave Your Lover",
+                "description": "Sam Smith - Leave Your Lover Sam Smith's debut album 'In The Lonely Hour' is out now: http://po.st/bRrkMm Music video by Sam Smith performing Leave Your ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/182TRJq9Zt8/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/182TRJq9Zt8/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/182TRJq9Zt8/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "xeugznpGKPA",
+            "title": "Sam Smith - Like I Can",
+            "created_at": "2014-12-12",
+            "comments": "4734",
+            "duration": "PT2M48S",
+            "views": "33095664",
+            "ratings": 185629,
+            "rating": "98.0",
+            "snippet": {
+                "publishedAt": "2014-12-12T12:00:12.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Like I Can",
+                "description": "The 'Like I Can' E.P is now available on iTunes: http://po.st/3xBCbl Sam Smith's debut album 'In The Lonely Hour' is out now: http://po.st/bRrkMm Click to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xeugznpGKPA/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xeugznpGKPA/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xeugznpGKPA/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "p_-U6dcTEOg",
+            "title": "Sam Smith - I'm Not The Only One",
+            "created_at": "2014-07-21",
+            "comments": "6620",
+            "duration": "PT3M55S",
+            "views": "21799644",
+            "ratings": 199332,
+            "rating": "98.0",
+            "snippet": {
+                "publishedAt": "2014-07-21T14:17:41.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - I'm Not The Only One",
+                "description": "I'm Not The Only One' is out now! Get it on iTunes: http://po.st/NIp9Z9 / Google Play: http://po.st/AOBLgR Sam Smith's debut album 'In The Lonely Hour' is out ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p_-U6dcTEOg/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p_-U6dcTEOg/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p_-U6dcTEOg/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "lvJX7OgPYww",
+            "title": "Sam Smith - Lay Me Down (Red Nose Day 2015) ft. John Legend",
+            "created_at": "2015-03-09",
+            "comments": "4615",
+            "duration": "PT2M56S",
+            "views": "20092242",
+            "ratings": 102274,
+            "rating": "97.0",
+            "snippet": {
+                "publishedAt": "2015-03-09T08:00:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Lay Me Down (Red Nose Day 2015) ft. John Legend",
+                "description": "Red Nose Day is coming to the US on NBC on May 21 - follow @rednosedayus on Twitter or visit http://po.st/RNDUS for details 'Lay Me Down' (feat.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lvJX7OgPYww/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lvJX7OgPYww/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lvJX7OgPYww/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "NqqOZbMWesI",
+            "title": "Sam Smith - Stay With Me (Live) ft. Mary J. Blige",
+            "created_at": "2014-06-02",
+            "comments": "2119",
+            "duration": "PT2M51S",
+            "views": "12828004",
+            "ratings": 67452,
+            "rating": "97.9",
+            "snippet": {
+                "publishedAt": "2014-06-02T23:01:00.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Stay With Me (Live) ft. Mary J. Blige",
+                "description": "Sam Smith -- \"\"Stay With Me\"\" feat. Mary J. Blige Google Play: http://po.st/SPVkje iTunes: http://smarturl.it/SWMMaryJ Sam Smith's debut album 'In The Lonely ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NqqOZbMWesI/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NqqOZbMWesI/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NqqOZbMWesI/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "ixYFypXiEig",
+            "title": "Sam Smith - Like I Can (Audio)",
+            "created_at": "2014-10-24",
+            "comments": "4970",
+            "duration": "PT4M43S",
+            "views": "12233096",
+            "ratings": 68356,
+            "rating": "97.7",
+            "snippet": {
+                "publishedAt": "2014-10-24T09:00:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Like I Can (Audio)",
+                "description": "The 'Like I Can' E.P is out now: http://po.st/3xBCbl Sam Smith's debut album 'In The Lonely Hour' is out now: http://po.st/bRrkMm Click to Subscribe: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ixYFypXiEig/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ixYFypXiEig/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ixYFypXiEig/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "dgJBKU9ALa0",
+            "title": "Sam Smith - Lay Me Down (Live on SNL)",
+            "created_at": "2014-04-01",
+            "comments": "1833",
+            "duration": "PT3M14S",
+            "views": "11851338",
+            "ratings": 53924,
+            "rating": "96.2",
+            "snippet": {
+                "publishedAt": "2014-04-01T22:00:02.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Lay Me Down (Live on SNL)",
+                "description": "Sam Smith's debut album 'In The Lonely Hour' featuring 'Stay With Me', 'Money On My Mind', 'Lay Me Down', 'Like I Can' and 'I'm Not The Only One' is out now ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dgJBKU9ALa0/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dgJBKU9ALa0/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dgJBKU9ALa0/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "gVa5HUGGPmo",
+            "title": "Sam Smith - Money On My Mind (Lyric Video)",
+            "created_at": "2013-12-09",
+            "comments": "2510",
+            "duration": "PT3M41S",
+            "views": "10623093",
+            "ratings": 80592,
+            "rating": "97.8",
+            "snippet": {
+                "publishedAt": "2013-12-09T10:00:00.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Money On My Mind (Lyric Video)",
+                "description": "Sam Smith's debut album 'In The Lonely Hour' out now: http://po.st/bRrkMm \"\"Money On My Mind\"\" out now on iTunes! http://po.st/nzX816 Click to Subscribe: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gVa5HUGGPmo/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gVa5HUGGPmo/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gVa5HUGGPmo/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "Xv77KoMEYu8",
+            "title": "Sam Smith - Lay Me Down (Official Audio)",
+            "created_at": "2015-01-30",
+            "comments": "2160",
+            "duration": "PT4M16S",
+            "views": "10052305",
+            "ratings": 55062,
+            "rating": "98.0",
+            "snippet": {
+                "publishedAt": "2015-01-30T12:54:18.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Lay Me Down (Official Audio)",
+                "description": "'Lay Me Down' is officially out now: http://po.st/SnYabR Sam Smith's debut album 'In The Lonely Hour' is out now: http://po.st/bRrkMm Click to Subscribe: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xv77KoMEYu8/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xv77KoMEYu8/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xv77KoMEYu8/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "ZGzHgo7n4jM",
+            "title": "Sam Smith - Restart",
+            "created_at": "2014-09-29",
+            "comments": "1520",
+            "duration": "PT3M32S",
+            "views": "8636718",
+            "ratings": 47924,
+            "rating": "98.1",
+            "snippet": {
+                "publishedAt": "2014-09-29T23:00:00.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Restart",
+                "description": "Sam Smith's debut album 'In The Lonely Hour' is out now: http://po.st/bRrkMm Click to Subscribe: http://bit.ly/1kXxhaZ http://samsmithworld.com/ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZGzHgo7n4jM/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZGzHgo7n4jM/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZGzHgo7n4jM/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "ULPDq02zavs",
+            "title": "Sam Smith - Make It To Me - Stripped (Live) (VEVO LIFT UK) ft. Howard Lawrence",
+            "created_at": "2014-04-17",
+            "comments": "2769",
+            "duration": "PT4M3S",
+            "views": "8572770",
+            "ratings": 51832,
+            "rating": "98.1",
+            "snippet": {
+                "publishedAt": "2014-04-17T08:44:48.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Make It To Me - Stripped (Live) (VEVO LIFT UK) ft. Howard Lawrence",
+                "description": "Sam Smith's debut album 'In The Lonely Hour' is out now: http://po.st/bRrkMm VEVO UK LIFT artist Sam Smith - \"\"Make It To Me\"\" featuring Howard Lawrence of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ULPDq02zavs/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ULPDq02zavs/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ULPDq02zavs/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "7NMhjmLGRak",
+            "title": "Sam Smith - I'm Not The Only One (Live) (Honda Stage at the iHeartRadio Theater)",
+            "created_at": "2014-06-23",
+            "comments": "1904",
+            "duration": "PT3M44S",
+            "views": "6029503",
+            "ratings": 40030,
+            "rating": "97.2",
+            "snippet": {
+                "publishedAt": "2014-06-23T23:00:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - I'm Not The Only One (Live) (Honda Stage at the iHeartRadio Theater)",
+                "description": "Sam Smith - I'm Not The Only One (Live) (Honda Stage at the iHeartRadio Theater)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7NMhjmLGRak/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7NMhjmLGRak/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7NMhjmLGRak/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "luODrlELINE",
+            "title": "Sam Smith - I'm Not The Only One (Official Audio) ft. A$AP Rocky",
+            "created_at": "2014-09-23",
+            "comments": "2668",
+            "duration": "PT2M47S",
+            "views": "4735201",
+            "ratings": 63178,
+            "rating": "98.5",
+            "snippet": {
+                "publishedAt": "2014-09-23T11:44:37.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - I'm Not The Only One (Official Audio) ft. A$AP Rocky",
+                "description": "I'm Not The Only One (feat. A$AP Rocky) is now available for download on: iTunes: http://po.st/cCWfa8 Google Play: http://po.st/FJxsiP Amazon: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/luODrlELINE/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/luODrlELINE/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/luODrlELINE/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "rnEqv8WcVq8",
+            "title": "Sam Smith - Have Yourself A Merry Little Christmas",
+            "created_at": "2014-12-06",
+            "comments": "1971",
+            "duration": "PT3M54S",
+            "views": "4724766",
+            "ratings": 50390,
+            "rating": "98.2",
+            "snippet": {
+                "publishedAt": "2014-12-06T02:00:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Have Yourself A Merry Little Christmas",
+                "description": "Download “Have Yourself A Merry Little Christmas”. Now Available: iTunes: http://smarturl.it/SAMXMAS Google Play: http://smarturl.it/samxmasgp Amazon: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rnEqv8WcVq8/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rnEqv8WcVq8/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rnEqv8WcVq8/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "nopayVKZuYQ",
+            "title": "Sam Smith, Mary J. Blige - Stay With Me (57th GRAMMYs)",
+            "created_at": "2015-02-10",
+            "comments": "1678",
+            "duration": "PT3M26S",
+            "views": "4373044",
+            "ratings": 31859,
+            "rating": "98.1",
+            "snippet": {
+                "publishedAt": "2015-02-10T23:30:00.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith, Mary J. Blige - Stay With Me (57th GRAMMYs)",
+                "description": "Sam Smith's debut album 'In The Lonely Hour' is out now: http://po.st/bRrkMm Click to Subscribe: http://bit.ly/1kXxhaZ http://samsmithworld.com/ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nopayVKZuYQ/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nopayVKZuYQ/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nopayVKZuYQ/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "ME3LqHxa8Ds",
+            "title": "Sam Smith - Latch - Acoustic (Live At The Apollo Theater)",
+            "created_at": "2014-06-19",
+            "comments": "2422",
+            "duration": "PT3M20S",
+            "views": "4234695",
+            "ratings": 26745,
+            "rating": "98.4",
+            "snippet": {
+                "publishedAt": "2014-06-19T04:01:00.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Latch - Acoustic (Live At The Apollo Theater)",
+                "description": "Sam Smith performs \"\"Latch (Acoustic)\"\" live at the Apollo Theater Sam Smith's debut album 'In The Lonely Hour' is out now: http://po.st/bRrkMm Click to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ME3LqHxa8Ds/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ME3LqHxa8Ds/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ME3LqHxa8Ds/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "2n8k_bdOe94",
+            "title": "Sam Smith - Stay With Me (Live on SNL)",
+            "created_at": "2014-04-01",
+            "comments": "1058",
+            "duration": "PT3M25S",
+            "views": "4170799",
+            "ratings": 32267,
+            "rating": "97.8",
+            "snippet": {
+                "publishedAt": "2014-04-01T22:00:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Stay With Me (Live on SNL)",
+                "description": "Sam Smith's debut album 'In The Lonely Hour' featuring 'Stay With Me', 'Money On My Mind', 'Lay Me Down', 'Like I Can' and 'I'm Not The Only One' is out now ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2n8k_bdOe94/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2n8k_bdOe94/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2n8k_bdOe94/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "hm9srkZTW90",
+            "title": "Sam Smith - Stay With Me (Live) - Stripped (Vevo LIFT UK)",
+            "created_at": "2014-05-07",
+            "comments": "1099",
+            "duration": "PT4M19S",
+            "views": "3208298",
+            "ratings": 20632,
+            "rating": "98.8",
+            "snippet": {
+                "publishedAt": "2014-05-07T17:00:02.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Stay With Me (Live) - Stripped (Vevo LIFT UK)",
+                "description": "Sam Smith - Stay With Me (Live) - Stripped (Vevo LIFT UK) Sam Smith's debut album 'In The Lonely Hour' is out now: http://po.st/bRrkMm Go behind the scenes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hm9srkZTW90/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hm9srkZTW90/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hm9srkZTW90/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "0kemI20dYWw",
+            "title": "Sam Smith - Lay Me Down (Live At The Apollo Theater)",
+            "created_at": "2014-06-19",
+            "comments": "692",
+            "duration": "PT4M16S",
+            "views": "1939140",
+            "ratings": 18373,
+            "rating": "98.3",
+            "snippet": {
+                "publishedAt": "2014-06-19T04:01:00.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Lay Me Down (Live At The Apollo Theater)",
+                "description": "Sam Smith performs \"\"Lay Me Down\"\" live at the Apollo Theater Sam Smith's debut album 'In The Lonely Hour' is out now: http://po.st/bRrkMm Target: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0kemI20dYWw/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0kemI20dYWw/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0kemI20dYWw/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "6cYjS5K3n98",
+            "title": "Sam Smith - I’m Not The Only One (VEVO LIFT Live): Brought To You By McDonald’s",
+            "created_at": "2014-09-05",
+            "comments": "806",
+            "duration": "PT3M28S",
+            "views": "1836677",
+            "ratings": 12970,
+            "rating": "98.0",
+            "snippet": {
+                "publishedAt": "2014-09-05T13:49:04.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - I’m Not The Only One (VEVO LIFT Live): Brought To You By McDonald’s",
+                "description": "Sam Smith - I'm Not The Only One (VEVO LIFT Live): Brought To You By McDonald's Sam Smith is one of those artists you need to see on stage – his voice is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6cYjS5K3n98/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6cYjS5K3n98/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6cYjS5K3n98/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "_6IBDHpCcS8",
+            "title": "Sam Smith - Stay With Me (Live) (Honda Stage at the iHeartRadio Theater)",
+            "created_at": "2014-06-23",
+            "comments": "451",
+            "duration": "PT3M2S",
+            "views": "1585123",
+            "ratings": 12108,
+            "rating": "98.1",
+            "snippet": {
+                "publishedAt": "2014-06-23T23:00:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Stay With Me (Live) (Honda Stage at the iHeartRadio Theater)",
+                "description": "Sam Smith - Stay With Me (Live) (Honda Stage at the iHeartRadio Theater)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_6IBDHpCcS8/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_6IBDHpCcS8/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_6IBDHpCcS8/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "3KFLX53YSNY",
+            "title": "Sam Smith - I'm Not The Only One (Behind The Scenes)",
+            "created_at": "2014-08-08",
+            "comments": "1136",
+            "duration": "PT3M48S",
+            "views": "1406594",
+            "ratings": 28170,
+            "rating": "98.9",
+            "snippet": {
+                "publishedAt": "2014-08-08T10:00:03.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - I'm Not The Only One (Behind The Scenes)",
+                "description": "You can now pre-order the 'I'm Not The Only One' EP on iTunes: http://po.st/NIp9Z9 / Google Play: http://po.st/AOBLgR Sam Smith's debut album 'In The Lonely ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3KFLX53YSNY/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3KFLX53YSNY/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3KFLX53YSNY/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "tqtZIyN_Alg",
+            "title": "Sam Smith - Lay Me Down (Live at The BRIT Awards 2015)",
+            "created_at": "2015-03-02",
+            "comments": "840",
+            "duration": "PT3M29S",
+            "views": "1341943",
+            "ratings": 12733,
+            "rating": "98.3",
+            "snippet": {
+                "publishedAt": "2015-03-02T19:00:02.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Lay Me Down (Live at The BRIT Awards 2015)",
+                "description": "Sam Smith performing 'Lay Me Down' live at the BRIT awards 2015 Download 'Lay Me Down' now: http://po.st/SnYabR Sam Smith's debut album 'In The Lonely ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tqtZIyN_Alg/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tqtZIyN_Alg/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tqtZIyN_Alg/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "bLTlU8NcXsI",
+            "title": "Sam Smith - Stay With Me (Live At The Apollo Theater) ft. Mary J. Blige",
+            "created_at": "2014-06-19",
+            "comments": "470",
+            "duration": "PT5M5S",
+            "views": "1297562",
+            "ratings": 10372,
+            "rating": "98.3",
+            "snippet": {
+                "publishedAt": "2014-06-19T04:01:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Stay With Me (Live At The Apollo Theater) ft. Mary J. Blige",
+                "description": "Sam Smith performs \"\"Stay With Me\"\" featuring Mary J. Blige live at the Apollo Theater Sam Smith's debut album 'In The Lonely Hour' is out now: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bLTlU8NcXsI/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bLTlU8NcXsI/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bLTlU8NcXsI/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "ha84FcP9lDE",
+            "title": "Sam Smith - Lay Me Down (VEVO LIFT Live): Brought To You By McDonald’s",
+            "created_at": "2014-09-05",
+            "comments": "376",
+            "duration": "PT4M12S",
+            "views": "1123465",
+            "ratings": 8882,
+            "rating": "98.2",
+            "snippet": {
+                "publishedAt": "2014-09-05T15:40:00.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Lay Me Down (VEVO LIFT Live): Brought To You By McDonald’s",
+                "description": "Sam Smith - Lay Me Down (VEVO LIFT Live): Brought To You By McDonald's Sam Smith is one of those artists you need to see on stage – his voice is amazing ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ha84FcP9lDE/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ha84FcP9lDE/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ha84FcP9lDE/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "BzdQICran-o",
+            "title": "Sam Smith - Leave Your Lover (VEVO LIFT Live): Brought To You By McDonald’s",
+            "created_at": "2014-09-05",
+            "comments": "296",
+            "duration": "PT4M26S",
+            "views": "984750",
+            "ratings": 7717,
+            "rating": "98.0",
+            "snippet": {
+                "publishedAt": "2014-09-05T15:40:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Leave Your Lover (VEVO LIFT Live): Brought To You By McDonald’s",
+                "description": "Sam Smith - Leave Your Lover (VEVO LIFT Live): Brought To You By McDonald's Sam Smith is one of those artists you need to see on stage – his voice is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BzdQICran-o/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BzdQICran-o/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BzdQICran-o/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "vTrp9CN1x7A",
+            "title": "Sam Smith - Money On My Mind (VEVO LIFT Live): Brought To You By McDonald’s",
+            "created_at": "2014-09-05",
+            "comments": "299",
+            "duration": "PT4M7S",
+            "views": "878683",
+            "ratings": 6924,
+            "rating": "98.7",
+            "snippet": {
+                "publishedAt": "2014-09-05T15:40:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Money On My Mind (VEVO LIFT Live): Brought To You By McDonald’s",
+                "description": "Sam Smith - Money On My Mind (VEVO LIFT Live): Brought To You By McDonald's Sam Smith is one of those artists you need to see on stage – his voice is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vTrp9CN1x7A/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vTrp9CN1x7A/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vTrp9CN1x7A/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "lv9qHG3gbiE",
+            "title": "Sam Smith - Stay With Me (VEVO LIFT Live): Brought To You By McDonald’s",
+            "created_at": "2014-09-05",
+            "comments": "238",
+            "duration": "PT3M26S",
+            "views": "847333",
+            "ratings": 7731,
+            "rating": "97.5",
+            "snippet": {
+                "publishedAt": "2014-09-05T15:40:00.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Stay With Me (VEVO LIFT Live): Brought To You By McDonald’s",
+                "description": "Sam Smith - Stay With Me (VEVO LIFT Live): Brought To You By McDonald's Sam Smith is one of those artists you need to see on stage – his voice is amazing ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lv9qHG3gbiE/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lv9qHG3gbiE/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lv9qHG3gbiE/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "A5d0taOUHLE",
+            "title": "Sam Smith - Nirvana (VEVO LIFT Live): Brought To You By McDonald’s",
+            "created_at": "2014-09-05",
+            "comments": "315",
+            "duration": "PT3M27S",
+            "views": "706053",
+            "ratings": 5408,
+            "rating": "98.7",
+            "snippet": {
+                "publishedAt": "2014-09-05T15:40:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Nirvana (VEVO LIFT Live): Brought To You By McDonald’s",
+                "description": "Sam Smith - Nirvana (VEVO LIFT Live): Brought To You By McDonald's Sam Smith is one of those artists you need to see on stage – his voice is amazing live.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A5d0taOUHLE/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A5d0taOUHLE/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A5d0taOUHLE/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "G3prIv8IzLg",
+            "title": "Sam Smith - Like I Can (Behind The Scenes)",
+            "created_at": "2014-12-19",
+            "comments": "187",
+            "duration": "PT4M7S",
+            "views": "524721",
+            "ratings": 3713,
+            "rating": "95.1",
+            "snippet": {
+                "publishedAt": "2014-12-19T12:00:03.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Like I Can (Behind The Scenes)",
+                "description": "The 'Like I Can' E.P is now available on iTunes: http://po.st/3xBCbl Sam Smith's debut album 'In The Lonely Hour' is out now: http://po.st/bRrkMm Click to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G3prIv8IzLg/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G3prIv8IzLg/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G3prIv8IzLg/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "Y2U4ED1Ld3k",
+            "title": "Sam Smith - Leave Your Lover (Live) (Honda Stage at the iHeartRadio Theater)",
+            "created_at": "2014-06-23",
+            "comments": "361",
+            "duration": "PT2M57S",
+            "views": "516388",
+            "ratings": 5835,
+            "rating": "98.7",
+            "snippet": {
+                "publishedAt": "2014-06-23T23:00:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Leave Your Lover (Live) (Honda Stage at the iHeartRadio Theater)",
+                "description": "Sam Smith - Leave Your Lover (Live) (Honda Stage at the iHeartRadio Theater)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y2U4ED1Ld3k/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y2U4ED1Ld3k/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y2U4ED1Ld3k/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "MgerG7ivGyQ",
+            "title": "Sam Smith - Becoming Sam Smith (VEVO LIFT UK)",
+            "created_at": "2014-03-17",
+            "comments": "133",
+            "duration": "PT2M41S",
+            "views": "504550",
+            "ratings": 3071,
+            "rating": "92.2",
+            "snippet": {
+                "publishedAt": "2014-03-17T00:01:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Becoming Sam Smith  (VEVO LIFT UK)",
+                "description": "Sam Smith's debut album 'In The Lonely Hour' out now: http://po.st/bRrkMm Subscribe: http://bit.ly/1kXxhaZ VEVO UK LIFT artist Sam Smith takes us on an ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MgerG7ivGyQ/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MgerG7ivGyQ/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MgerG7ivGyQ/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "CuUpH57MeX8",
+            "title": "Sam Smith - Get To Know: Sam Smith (VEVO LIFT): Brought To You By McDonald's",
+            "created_at": "2014-08-04",
+            "comments": "81",
+            "duration": "PT1M59S",
+            "views": "438322",
+            "ratings": 1949,
+            "rating": "94.8",
+            "snippet": {
+                "publishedAt": "2014-08-04T16:00:07.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Get To Know: Sam Smith (VEVO LIFT): Brought To You By McDonald's",
+                "description": "Get To Know: Sam Smith (VEVO LIFT): Brought To You By McDonald's Our newest Vevo LIFT artist Sam Smith tells fans about his childhood, family life, worst ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CuUpH57MeX8/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CuUpH57MeX8/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CuUpH57MeX8/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "2l9R-NL92hQ",
+            "title": "Sam Smith - New York Stories (VEVO LIFT): Brought To You By McDonald's",
+            "created_at": "2014-08-11",
+            "comments": "299",
+            "duration": "PT4M33S",
+            "views": "359297",
+            "ratings": 4112,
+            "rating": "98.5",
+            "snippet": {
+                "publishedAt": "2014-08-11T15:40:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - New York Stories (VEVO LIFT): Brought To You By McDonald's",
+                "description": "New York Stories (VEVO LIFT): Brought To You By McDonald's Vevo LIFT artist Sam Smith gives us his thoughts about The Big Apple including his most ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2l9R-NL92hQ/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2l9R-NL92hQ/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2l9R-NL92hQ/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "g30JeUH9f7A",
+            "title": "Sam Smith - Behind The Scenes - Make It To Me - (Live) - Stripped (Vevo LIFT UK)",
+            "created_at": "2014-05-07",
+            "comments": "81",
+            "duration": "PT2M33S",
+            "views": "321188",
+            "ratings": 1850,
+            "rating": "97.5",
+            "snippet": {
+                "publishedAt": "2014-05-07T17:00:02.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Behind The Scenes - Make It To Me - (Live) - Stripped (Vevo LIFT UK)",
+                "description": "Sam Smith - Behind The Scenes - Make It To Me - (Live) - Stripped (Vevo LIFT UK) Go behind the scenes with Vevo UK LIFT artist Sam Smith on his \"\"Make It To ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g30JeUH9f7A/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g30JeUH9f7A/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g30JeUH9f7A/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "XYc4CeChStA",
+            "title": "Sam Smith - ASK:REPLY (VEVO LIFT): Brought To You By McDonald's",
+            "created_at": "2014-07-28",
+            "comments": "128",
+            "duration": "PT3M23S",
+            "views": "269647",
+            "ratings": 2308,
+            "rating": "98.9",
+            "snippet": {
+                "publishedAt": "2014-07-28T15:40:00.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - ASK:REPLY (VEVO LIFT): Brought To You By McDonald's",
+                "description": "ASK:REPLY (VEVO LIFT): Brought To You By McDonald's Our newest Vevo LIFT artist Sam Smith answers fan questions in this exclusive Vevo ASK:REPLY!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XYc4CeChStA/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XYc4CeChStA/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XYc4CeChStA/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "ZBqYAKP86rs",
+            "title": "Sam Smith - Stay With Me (Behind The Scenes)",
+            "created_at": "2014-04-03",
+            "comments": "58",
+            "duration": "PT31S",
+            "views": "106079",
+            "ratings": 1125,
+            "rating": "97.8",
+            "snippet": {
+                "publishedAt": "2014-04-03T23:00:00.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Stay With Me (Behind The Scenes)",
+                "description": "Sam Smith's debut album 'In The Lonely Hour' is out now: http://po.st/bRrkMm USA Pre-order \"\"In The Lonely Hour\"\" http://smarturl.it/SSlonelyiT And get an ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZBqYAKP86rs/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZBqYAKP86rs/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZBqYAKP86rs/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "53af72QevUQ",
+            "title": "Sam Smith - Becoming (VEVO LIFT): Brought To You By McDonald's",
+            "created_at": "2014-08-25",
+            "snippet": {
+                "publishedAt": "2014-08-25T15:40:01.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - Becoming (VEVO LIFT): Brought To You By McDonald's",
+                "description": "Sam Smith - Becoming (VEVO LIFT): Brought To You By McDonald's Vevo LIFT artist Sam Smith discusses his early days, his legendary SNL performance and much more in this ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/53af72QevUQ/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/53af72QevUQ/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/53af72QevUQ/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "3MDWuwKMujU",
+            "title": "Sam Smith - LIFT Intro: Sam Smith (VEVO LIFT): Brought To You By McDonald's",
+            "created_at": "2014-07-28",
+            "snippet": {
+                "publishedAt": "2014-07-28T15:40:00.000Z",
+                "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+                "title": "Sam Smith - LIFT Intro: Sam Smith (VEVO LIFT): Brought To You By McDonald's",
+                "description": "LIFT Intro: Sam Smith (VEVO LIFT): Brought To You By McDonald's Vevo LIFT artist Sam Smith, the UK sensation behind \"Stay With Me\" & \"Money On My Mind\" ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3MDWuwKMujU/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3MDWuwKMujU/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3MDWuwKMujU/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "SamSmithWorldVEVO",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}
