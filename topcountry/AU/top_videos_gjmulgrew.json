@@ -1,0 +1,903 @@
+{
+    "videos": [
+        {
+            "videoId": "2jw9X3EQOfs",
+            "title": "Barbie's Cruise Ship Adventure",
+            "created_at": "2013-11-12",
+            "comments": "2362",
+            "duration": "PT10M6S",
+            "views": "34374456",
+            "ratings": 46465,
+            "rating": "62.4",
+            "snippet": {
+                "publishedAt": "2013-11-12T09:03:01.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie's Cruise Ship Adventure",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2jw9X3EQOfs/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2jw9X3EQOfs/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2jw9X3EQOfs/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "lySIRKFWMGk",
+            "title": "Barbie - Anneliese's New House",
+            "created_at": "2012-05-14",
+            "comments": "2812",
+            "duration": "PT13M17S",
+            "views": "33277113",
+            "ratings": 41783,
+            "rating": "41.8",
+            "snippet": {
+                "publishedAt": "2012-05-14T02:38:06.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Anneliese's New House",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lySIRKFWMGk/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lySIRKFWMGk/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lySIRKFWMGk/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "6cZYoI23L6U",
+            "title": "Barbie - Majesty's Big Race",
+            "created_at": "2014-05-01",
+            "comments": "867",
+            "duration": "PT9M4S",
+            "views": "14052091",
+            "ratings": 17023,
+            "rating": "67.7",
+            "snippet": {
+                "publishedAt": "2014-05-01T00:55:39.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Majesty's Big Race",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6cZYoI23L6U/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6cZYoI23L6U/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6cZYoI23L6U/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "9gwApdmkC_Y",
+            "title": "Barbie - Wedding Day Disaster",
+            "created_at": "2014-09-02",
+            "comments": "655",
+            "duration": "PT13M19S",
+            "views": "6432036",
+            "ratings": 12717,
+            "rating": "72.0",
+            "snippet": {
+                "publishedAt": "2014-09-02T07:44:11.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Wedding Day Disaster",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9gwApdmkC_Y/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9gwApdmkC_Y/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9gwApdmkC_Y/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "NKO1-UGm-Lk",
+            "title": "Barbie - American Girl Christmas",
+            "created_at": "2014-12-08",
+            "comments": "904",
+            "duration": "PT13M56S",
+            "views": "6144311",
+            "ratings": 15059,
+            "rating": "79.4",
+            "snippet": {
+                "publishedAt": "2014-12-08T13:31:19.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - American Girl Christmas",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NKO1-UGm-Lk/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NKO1-UGm-Lk/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NKO1-UGm-Lk/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "7eYyXihNemo",
+            "title": "Barbie - A Cinderella Story",
+            "created_at": "2015-02-05",
+            "comments": "873",
+            "duration": "PT8M30S",
+            "views": "4607263",
+            "ratings": 15778,
+            "rating": "75.5",
+            "snippet": {
+                "publishedAt": "2015-02-05T11:03:23.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - A Cinderella Story",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7eYyXihNemo/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7eYyXihNemo/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7eYyXihNemo/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "K5IuzNyf1q8",
+            "title": "Frozen - Olaf the Troublemaker",
+            "created_at": "2014-04-08",
+            "comments": "434",
+            "duration": "PT11M5S",
+            "views": "4475339",
+            "ratings": 7951,
+            "rating": "66.4",
+            "snippet": {
+                "publishedAt": "2014-04-08T00:14:36.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Frozen - Olaf the Troublemaker",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K5IuzNyf1q8/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K5IuzNyf1q8/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K5IuzNyf1q8/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "YOmeQ4MQruc",
+            "title": "Barbie - Raquelle Loves Ken",
+            "created_at": "2014-06-11",
+            "comments": "551",
+            "duration": "PT12M3S",
+            "views": "4404657",
+            "ratings": 8363,
+            "rating": "73.3",
+            "snippet": {
+                "publishedAt": "2014-06-11T09:03:09.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Raquelle Loves Ken",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YOmeQ4MQruc/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YOmeQ4MQruc/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YOmeQ4MQruc/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "wgF-A7QAynE",
+            "title": "Barbie - Chelsea's Slumber Party",
+            "created_at": "2014-05-27",
+            "comments": "437",
+            "duration": "PT10M14S",
+            "views": "3012076",
+            "ratings": 6644,
+            "rating": "74.4",
+            "snippet": {
+                "publishedAt": "2014-05-27T22:23:24.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Chelsea's Slumber Party",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wgF-A7QAynE/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wgF-A7QAynE/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wgF-A7QAynE/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "lET4rDllszc",
+            "title": "Barbie - The Camping Catastrophe",
+            "created_at": "2014-06-26",
+            "comments": "412",
+            "duration": "PT11M51S",
+            "views": "2656857",
+            "ratings": 6345,
+            "rating": "70.7",
+            "snippet": {
+                "publishedAt": "2014-06-26T13:27:26.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - The Camping Catastrophe",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lET4rDllszc/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lET4rDllszc/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lET4rDllszc/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "khyeY3nW2hg",
+            "title": "Barbie's Cruise Ship Adventure 2",
+            "created_at": "2015-02-26",
+            "comments": "435",
+            "duration": "PT6M50S",
+            "views": "2530420",
+            "ratings": 6569,
+            "rating": "81.0",
+            "snippet": {
+                "publishedAt": "2015-02-26T14:44:02.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie's Cruise Ship Adventure 2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/khyeY3nW2hg/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/khyeY3nW2hg/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/khyeY3nW2hg/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "aBmimN8F5zc",
+            "title": "Barbie - Ken's Revenge",
+            "created_at": "2014-07-28",
+            "comments": "405",
+            "duration": "PT8M26S",
+            "views": "2470099",
+            "ratings": 6370,
+            "rating": "76.5",
+            "snippet": {
+                "publishedAt": "2014-07-28T07:05:13.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Ken's Revenge",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aBmimN8F5zc/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aBmimN8F5zc/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aBmimN8F5zc/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "JhPb4gRY8XI",
+            "title": "Barbie - Teacher for a Day",
+            "created_at": "2014-10-16",
+            "comments": "535",
+            "duration": "PT11M11S",
+            "views": "2240183",
+            "ratings": 7317,
+            "rating": "81.0",
+            "snippet": {
+                "publishedAt": "2014-10-16T09:09:38.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Teacher for a Day",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JhPb4gRY8XI/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JhPb4gRY8XI/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JhPb4gRY8XI/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "FJQEcehfSA4",
+            "title": "Barbie - Chocolate Cake Surprise",
+            "created_at": "2015-02-13",
+            "comments": "247",
+            "duration": "PT6M59S",
+            "views": "1519149",
+            "ratings": 4152,
+            "rating": "77.6",
+            "snippet": {
+                "publishedAt": "2015-02-13T07:12:06.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Chocolate Cake Surprise",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FJQEcehfSA4/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FJQEcehfSA4/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FJQEcehfSA4/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "NeqK1vQLpOE",
+            "title": "Barbie - Valentine Kiss",
+            "created_at": "2015-01-18",
+            "comments": "269",
+            "duration": "PT11M20S",
+            "views": "1455181",
+            "ratings": 3149,
+            "rating": "78.1",
+            "snippet": {
+                "publishedAt": "2015-01-18T07:50:46.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Valentine Kiss",
+                "description": "Barbie plans to have a wonderful Valentine's Day with Ken .... or so she thinks!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NeqK1vQLpOE/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NeqK1vQLpOE/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NeqK1vQLpOE/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "83aW3dYph1w",
+            "title": "Barbie - Magic Mayhem",
+            "created_at": "2014-07-11",
+            "comments": "478",
+            "duration": "PT9M32S",
+            "views": "1441794",
+            "ratings": 4755,
+            "rating": "82.4",
+            "snippet": {
+                "publishedAt": "2014-07-11T12:11:23.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Magic Mayhem",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/83aW3dYph1w/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/83aW3dYph1w/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/83aW3dYph1w/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "5u33btsjo0E",
+            "title": "Barbie's Baby Part 4 - The Arrival",
+            "created_at": "2015-05-13",
+            "comments": "407",
+            "duration": "PT9M28S",
+            "views": "1333638",
+            "ratings": 4339,
+            "rating": "84.7",
+            "snippet": {
+                "publishedAt": "2015-05-13T12:43:35.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie's Baby Part 4 - The Arrival",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5u33btsjo0E/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5u33btsjo0E/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5u33btsjo0E/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "hMcxAvqz4Jg",
+            "title": "Barbie - Sick and Spotty",
+            "created_at": "2015-03-13",
+            "comments": "445",
+            "duration": "PT8M3S",
+            "views": "1321575",
+            "ratings": 4834,
+            "rating": "82.6",
+            "snippet": {
+                "publishedAt": "2015-03-13T11:39:21.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Sick and Spotty",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hMcxAvqz4Jg/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hMcxAvqz4Jg/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hMcxAvqz4Jg/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "KTsXi55AMCc",
+            "title": "Barbie - Movie Misbehaviour",
+            "created_at": "2015-01-07",
+            "comments": "506",
+            "duration": "PT9M3S",
+            "views": "1017806",
+            "ratings": 4471,
+            "rating": "80.0",
+            "snippet": {
+                "publishedAt": "2015-01-07T12:55:58.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Movie Misbehaviour",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KTsXi55AMCc/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KTsXi55AMCc/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KTsXi55AMCc/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "FZTJNQSXn7c",
+            "title": "Barbie - The Worst, Yucky, Awful, Really Bad Day",
+            "created_at": "2015-04-04",
+            "comments": "287",
+            "duration": "PT3M53S",
+            "views": "979051",
+            "ratings": 2345,
+            "rating": "49.4",
+            "snippet": {
+                "publishedAt": "2015-04-04T16:21:03.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - The Worst, Yucky, Awful, Really Bad Day",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FZTJNQSXn7c/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FZTJNQSXn7c/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FZTJNQSXn7c/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "aI-T2lbf0_k",
+            "title": "Barbie Goes To Seaworld",
+            "created_at": "2012-08-24",
+            "comments": "522",
+            "duration": "PT9M8S",
+            "views": "980210",
+            "ratings": 4860,
+            "rating": "85.2",
+            "snippet": {
+                "publishedAt": "2012-08-24T08:24:52.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie Goes To Seaworld",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aI-T2lbf0_k/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aI-T2lbf0_k/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aI-T2lbf0_k/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "SfTigzGBLF0",
+            "title": "Barbie - Easter Egg Hunt",
+            "created_at": "2015-03-04",
+            "comments": "439",
+            "duration": "PT10M32S",
+            "views": "892126",
+            "ratings": 3285,
+            "rating": "85.4",
+            "snippet": {
+                "publishedAt": "2015-03-04T10:57:25.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Easter Egg Hunt",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SfTigzGBLF0/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SfTigzGBLF0/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SfTigzGBLF0/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "PXsh8ZP2J90",
+            "title": "Barbie's Baby Part 5 - Welcome Home!",
+            "created_at": "2015-05-22",
+            "comments": "308",
+            "duration": "PT10M42S",
+            "views": "784597",
+            "ratings": 3170,
+            "rating": "85.4",
+            "snippet": {
+                "publishedAt": "2015-05-22T04:32:15.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie's Baby Part 5 - Welcome Home!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PXsh8ZP2J90/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PXsh8ZP2J90/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PXsh8ZP2J90/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "r-pPAr2jjzY",
+            "title": "Barbie - Cheeky Chelsea",
+            "created_at": "2015-01-24",
+            "comments": "426",
+            "duration": "PT7M19S",
+            "views": "780195",
+            "ratings": 3144,
+            "rating": "82.6",
+            "snippet": {
+                "publishedAt": "2015-01-24T13:14:50.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Cheeky Chelsea",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r-pPAr2jjzY/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r-pPAr2jjzY/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r-pPAr2jjzY/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "9lTL54kGpLE",
+            "title": "Barbie - Chelsea Runs Away",
+            "created_at": "2015-05-28",
+            "comments": "473",
+            "duration": "PT11M40S",
+            "views": "802545",
+            "ratings": 3576,
+            "rating": "84.4",
+            "snippet": {
+                "publishedAt": "2015-05-28T05:06:51.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Chelsea Runs Away",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9lTL54kGpLE/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9lTL54kGpLE/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9lTL54kGpLE/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "R-79xnE1lEw",
+            "title": "Barbie - New Girl at School",
+            "created_at": "2015-06-05",
+            "comments": "396",
+            "duration": "PT5M52S",
+            "views": "707582",
+            "ratings": 2795,
+            "rating": "86.9",
+            "snippet": {
+                "publishedAt": "2015-06-05T05:33:40.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - New Girl at School",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R-79xnE1lEw/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R-79xnE1lEw/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R-79xnE1lEw/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "qjzuAlgXeU4",
+            "title": "Barbie's Baby Part 3 - Baby Boy or Baby Girl?",
+            "created_at": "2015-05-07",
+            "comments": "261",
+            "duration": "PT11M56S",
+            "views": "650500",
+            "ratings": 2218,
+            "rating": "83.4",
+            "snippet": {
+                "publishedAt": "2015-05-07T10:39:24.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie's Baby Part 3 - Baby Boy or Baby Girl?",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qjzuAlgXeU4/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qjzuAlgXeU4/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qjzuAlgXeU4/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "3w8KXZrg0Lo",
+            "title": "Barbie - Honeymoon Hiccup",
+            "created_at": "2015-01-02",
+            "comments": "332",
+            "duration": "PT7M38S",
+            "views": "620017",
+            "ratings": 2552,
+            "rating": "84.7",
+            "snippet": {
+                "publishedAt": "2015-01-02T14:46:23.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Honeymoon Hiccup",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3w8KXZrg0Lo/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3w8KXZrg0Lo/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3w8KXZrg0Lo/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "cFS83QzH2To",
+            "title": "Barbie - Surfing with Stacie",
+            "created_at": "2015-03-21",
+            "comments": "293",
+            "duration": "PT7M51S",
+            "views": "595023",
+            "ratings": 2858,
+            "rating": "84.2",
+            "snippet": {
+                "publishedAt": "2015-03-21T12:35:51.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Surfing with Stacie",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cFS83QzH2To/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cFS83QzH2To/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cFS83QzH2To/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "PmJvLYLYwgo",
+            "title": "Barbie - Raquelle Gets Ken?",
+            "created_at": "2015-01-27",
+            "comments": "201",
+            "duration": "PT12M43S",
+            "views": "507946",
+            "ratings": 1785,
+            "rating": "84.2",
+            "snippet": {
+                "publishedAt": "2015-01-27T11:26:19.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie - Raquelle Gets Ken?",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PmJvLYLYwgo/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PmJvLYLYwgo/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PmJvLYLYwgo/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "KYu8XjD6dsg",
+            "title": "Barbie's Night at the Oscars",
+            "created_at": "2014-09-18",
+            "comments": "316",
+            "duration": "PT9M1S",
+            "views": "456501",
+            "ratings": 1974,
+            "rating": "90.2",
+            "snippet": {
+                "publishedAt": "2014-09-18T09:49:31.000Z",
+                "channelId": "UC03GdYOZbnLQAPDXmjc6W9g",
+                "title": "Barbie's Night at the Oscars",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KYu8XjD6dsg/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KYu8XjD6dsg/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KYu8XjD6dsg/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "gjmulgrew",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}

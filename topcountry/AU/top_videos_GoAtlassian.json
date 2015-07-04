@@ -1,0 +1,700 @@
+{
+    "videos": [
+        {
+            "videoId": "AZkTahNKLLE",
+            "title": "Inform the team, with Hipchat",
+            "created_at": "2014-10-01",
+            "comments": "15",
+            "duration": "PT31S",
+            "views": "2437425",
+            "ratings": 53,
+            "rating": "91.8",
+            "snippet": {
+                "publishedAt": "2014-10-01T17:59:23.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "Inform the team, with Hipchat",
+                "description": "HipChat means business! Dedicated IM, video chat, file sharing, and more keeps your team on the same page and productive - wherever they are.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AZkTahNKLLE/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AZkTahNKLLE/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AZkTahNKLLE/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "A65rDxtezCI",
+            "title": "Personal Life @Work (Office)",
+            "created_at": "2014-10-03",
+            "comments": "4",
+            "duration": "PT16S",
+            "views": "1480371",
+            "ratings": 16,
+            "rating": "93.3",
+            "snippet": {
+                "publishedAt": "2014-10-03T22:33:54.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "Personal Life @Work (Office)",
+                "description": "HipChat means business! Dedicated IM, video chat, file sharing, and more keeps your team on the same page and productive and keeps your personal life out ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A65rDxtezCI/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A65rDxtezCI/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A65rDxtezCI/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "zwnAEEWCFlw",
+            "title": "Personal Life @Work (Meeting)",
+            "created_at": "2014-10-03",
+            "comments": "3",
+            "duration": "PT16S",
+            "views": "752514",
+            "ratings": 10,
+            "rating": "75.0",
+            "snippet": {
+                "publishedAt": "2014-10-03T22:33:45.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "Personal Life @Work (Meeting)",
+                "description": "HipChat Means Business! HipChat is dedicated IM, video chat, file sharing and more. HipChat keep your team productive and on the same page - and keeps ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zwnAEEWCFlw/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zwnAEEWCFlw/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zwnAEEWCFlw/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "W5I9gcSGi2U",
+            "title": "Inform the team, with Hipchat",
+            "created_at": "2014-12-03",
+            "comments": "1044",
+            "duration": "PT2M3S",
+            "views": "345666",
+            "ratings": 3803,
+            "rating": "96.3",
+            "snippet": {
+                "publishedAt": "2014-12-03T22:30:57.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "Inform the team, with Hipchat",
+                "description": "HipChat means business! Dedicated IM, video chat, file sharing, and more keeps your team on the same page and productive - wherever they are.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W5I9gcSGi2U/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W5I9gcSGi2U/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W5I9gcSGi2U/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "dYBjVTMUQY0",
+            "title": "Spooning By Bitbucket",
+            "created_at": "2012-03-30",
+            "comments": "50",
+            "duration": "PT23M32S",
+            "views": "291251",
+            "ratings": 381,
+            "rating": "87.9",
+            "snippet": {
+                "publishedAt": "2012-03-30T23:18:54.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "Spooning By Bitbucket",
+                "description": "Because forking code is so 2011. Let's face it DVCS is due for some innovation, and Bitbucket is bringing it. Spooning is a new way to boost developer ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dYBjVTMUQY0/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dYBjVTMUQY0/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dYBjVTMUQY0/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "ca8n9uW3afg",
+            "title": "JIRA Demonstration Video",
+            "created_at": "2012-02-22",
+            "comments": "62",
+            "duration": "PT3M58S",
+            "views": "240506",
+            "ratings": 511,
+            "rating": "70.0",
+            "snippet": {
+                "publishedAt": "2012-02-22T04:54:38.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "JIRA Demonstration Video",
+                "description": "Watch a 25 minute product demonstration of JIRA 5. atlassian.com/jira.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ca8n9uW3afg/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ca8n9uW3afg/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ca8n9uW3afg/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "xrCJv0fTyR8",
+            "title": "JIRA in a Nutshell demo video",
+            "created_at": "2012-11-12",
+            "comments": "244",
+            "duration": "PT1M29S",
+            "views": "155408",
+            "ratings": 868,
+            "rating": "96.7",
+            "snippet": {
+                "publishedAt": "2012-11-12T16:57:54.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "JIRA in a Nutshell demo video",
+                "description": "An overview of JIRA: issue and project tracking for software teams. http://atlassian.com/jira.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xrCJv0fTyR8/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xrCJv0fTyR8/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xrCJv0fTyR8/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "9shZslfbaS0",
+            "title": "Introducing JIRA Jr. Project Tracking... for Kids!",
+            "created_at": "2013-03-31",
+            "comments": "14",
+            "duration": "PT59M27S",
+            "views": "120994",
+            "ratings": 166,
+            "rating": "93.6",
+            "snippet": {
+                "publishedAt": "2013-03-31T13:00:28.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "Introducing JIRA Jr. Project Tracking... for Kids!",
+                "description": "JIRA Jr. is the best way to track being a kid. Track baseball cards, tea parties, boo-boos, poo-poos, and more. No more sticky-stars on the fridge. Drag-and-drop ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9shZslfbaS0/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9shZslfbaS0/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9shZslfbaS0/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "uhWCMlcY_Zw",
+            "title": "Atlassian Confluence Demonstration Video",
+            "created_at": "2013-04-23",
+            "comments": "0",
+            "duration": "PT23S",
+            "views": "121682",
+            "ratings": 2,
+            "rating": "100.0",
+            "snippet": {
+                "publishedAt": "2013-04-23T23:43:46.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "Atlassian Confluence Demonstration Video",
+                "description": "An in-depth product demonstration of Atlassian's team-collaboration platform, Confluence. This video provides an overview of Atlassian and Confluence, as well ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uhWCMlcY_Zw/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uhWCMlcY_Zw/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uhWCMlcY_Zw/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "DMiwDCDbAco",
+            "title": "JIRA Service Desk Product Teaser",
+            "created_at": "2015-02-25",
+            "comments": "4",
+            "duration": "PT19M",
+            "views": "96688",
+            "ratings": 88,
+            "rating": "95.2",
+            "snippet": {
+                "publishedAt": "2015-02-25T15:00:39.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "JIRA Service Desk Product Teaser",
+                "description": "This video was created for Trueview. Please do not use for anything else or edit.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DMiwDCDbAco/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DMiwDCDbAco/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DMiwDCDbAco/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "oLmDe8pAc6I",
+            "title": "The Wrong way to do Agile: Stand-ups",
+            "created_at": "2013-05-31",
+            "comments": "23",
+            "duration": "PT39M37S",
+            "views": "77279",
+            "ratings": 164,
+            "rating": "92.1",
+            "snippet": {
+                "publishedAt": "2013-05-31T22:59:15.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "The Wrong way to do Agile: Stand-ups",
+                "description": "Chet Rong shows on the Rong Way to do stand-ups. Follow @ChetRong on Twitter! (Just don't follow his advice.) Visit atlassian.com/agile for more on doing ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oLmDe8pAc6I/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oLmDe8pAc6I/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oLmDe8pAc6I/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "57xYGGbBemE",
+            "title": "GreenHopper 6 - Welcome to GreenHopper",
+            "created_at": "2012-08-14",
+            "comments": "157",
+            "duration": "PT54S",
+            "views": "74097",
+            "ratings": 198,
+            "rating": "97.9",
+            "snippet": {
+                "publishedAt": "2012-08-14T16:01:11.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "GreenHopper 6 - Welcome to GreenHopper",
+                "description": "A deep dive into GreenHopper for Scrum and Kanban teams.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/57xYGGbBemE/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/57xYGGbBemE/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/57xYGGbBemE/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "tvUnF6RGD1Q",
+            "title": "Mastering JIRA Workflow",
+            "created_at": "2011-08-04",
+            "comments": "6",
+            "duration": "PT2M32S",
+            "views": "73559",
+            "ratings": 136,
+            "rating": "97.0",
+            "snippet": {
+                "publishedAt": "2011-08-04T19:58:23.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "Mastering JIRA Workflow",
+                "description": "Learn how to modify your JIRA workflow to fit the way you work. Practical tips for every workflow.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tvUnF6RGD1Q/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tvUnF6RGD1Q/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tvUnF6RGD1Q/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "HsB0UZR7XvE",
+            "title": "The Wrong way to do Agile: Team Structure",
+            "created_at": "2013-05-31",
+            "comments": "30",
+            "duration": "PT55M44S",
+            "views": "70976",
+            "ratings": 312,
+            "rating": "95.3",
+            "snippet": {
+                "publishedAt": "2013-05-31T22:58:49.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "The Wrong way to do Agile: Team Structure",
+                "description": "Chet Rong shows on the Rong Way to do team structure. Follow @ChetRong on Twitter! (Just don't follow his advice.) Visit atlassian.com/agile for more on doing ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HsB0UZR7XvE/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HsB0UZR7XvE/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HsB0UZR7XvE/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "KWiSkH9Tqbo",
+            "title": "GreenHopper - Truly Agile Project Management",
+            "created_at": "2012-08-16",
+            "comments": "10",
+            "duration": "PT1M30S",
+            "views": "65812",
+            "ratings": 21,
+            "rating": "50.0",
+            "snippet": {
+                "publishedAt": "2012-08-16T00:48:46.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "GreenHopper - Truly Agile Project Management",
+                "description": "GreenHopper makes Agile accessible, whether you're a seasoned Agile expert or just getting started. Creating user stories, estimating those stories for a sprint ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KWiSkH9Tqbo/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KWiSkH9Tqbo/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KWiSkH9Tqbo/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "9SZ7kSQ2424",
+            "title": "Git Branching for Agile Teams (webinar)",
+            "created_at": "2013-11-22",
+            "comments": "36",
+            "duration": "PT1M6S",
+            "views": "56172",
+            "ratings": 136,
+            "rating": "100.0",
+            "snippet": {
+                "publishedAt": "2013-11-22T22:35:56.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "Git Branching for Agile Teams (webinar)",
+                "description": "Learn how feature branching with Git unleashes a whole new level of agility for your team.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9SZ7kSQ2424/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9SZ7kSQ2424/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9SZ7kSQ2424/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "ZmACxhzXLco",
+            "title": "JIRA Instant Search Bar Demo Video",
+            "created_at": "2012-11-12",
+            "comments": "9",
+            "duration": "PT10M16S",
+            "views": "52924",
+            "ratings": 134,
+            "rating": "96.9",
+            "snippet": {
+                "publishedAt": "2012-11-12T16:58:49.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "JIRA Instant Search Bar Demo Video",
+                "description": "JIRA's completely re-imagined search bar instantly updates your results atlassian.com/jira.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZmACxhzXLco/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZmACxhzXLco/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZmACxhzXLco/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "l1yWusiaLCM",
+            "title": "The Wrong way to do Agile: Specifications",
+            "created_at": "2013-05-31",
+            "comments": "6",
+            "duration": "PT1M46S",
+            "views": "50682",
+            "ratings": 25,
+            "rating": "43.8",
+            "snippet": {
+                "publishedAt": "2013-05-31T22:59:34.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "The Wrong way to do Agile: Specifications",
+                "description": "Chet Rong shows on the Rong Way to do requirements. Follow @ChetRong on Twitter! (Just don't follow his advice.) Visit atlassian.com/agile for more on doing ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l1yWusiaLCM/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l1yWusiaLCM/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l1yWusiaLCM/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "42r-VvuRMGE",
+            "title": "How to Build a Kick Ass Confluence Wiki Page in 10 minutes - Atlassian Summit 2011",
+            "created_at": "2011-06-16",
+            "comments": "3",
+            "duration": "PT1M5S",
+            "views": "47529",
+            "ratings": 34,
+            "rating": "64.0",
+            "snippet": {
+                "publishedAt": "2011-06-16T01:11:41.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "How to Build a Kick Ass Confluence Wiki  Page in 10 minutes - Atlassian Summit 2011",
+                "description": "Watch in awe as Ryan shows you how to build a content-rich page using the new editor in Confluence 4.0, sharing tips, tricks, and best practices on the way.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/42r-VvuRMGE/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/42r-VvuRMGE/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/42r-VvuRMGE/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "EsQ__dR6Nrw",
+            "title": "Creating & Editing issues in JIRA",
+            "created_at": "2012-07-10",
+            "comments": "6",
+            "duration": "PT1M34S",
+            "views": "45202",
+            "ratings": 41,
+            "rating": "92.1",
+            "snippet": {
+                "publishedAt": "2012-07-10T15:34:54.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "Creating & Editing issues in JIRA",
+                "description": "A great issue tracker is one that doesn't get in your way. Creating and editing issues is faster than ever in JIRA 5.1. Learn more: atlassian.com/jira.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EsQ__dR6Nrw/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EsQ__dR6Nrw/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EsQ__dR6Nrw/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "DLrWrpY8mIs",
+            "title": "Editing Project Workflows in JIRA",
+            "created_at": "2012-11-12",
+            "comments": "3",
+            "duration": "PT2M46S",
+            "views": "41825",
+            "ratings": 111,
+            "rating": "81.9",
+            "snippet": {
+                "publishedAt": "2012-11-12T16:59:20.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "Editing Project Workflows in JIRA",
+                "description": "It's easy to add, remove and swap workflows in JIRA. Learn more: https://www.atlassian.com/jira.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DLrWrpY8mIs/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DLrWrpY8mIs/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DLrWrpY8mIs/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "XIn1zxAbrv8",
+            "title": "What's New in JIRA 6",
+            "created_at": "2013-05-21",
+            "comments": "2",
+            "duration": "PT1M46S",
+            "views": "40096",
+            "ratings": 16,
+            "rating": "66.7",
+            "snippet": {
+                "publishedAt": "2013-05-21T15:43:46.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "What's New in JIRA 6",
+                "description": "Learn more: http://www.atlassian.com/software/jira/whats-new Modern. Fast. Mobile. Simple. JIRA has been re-designed with a modern, intuitive interface and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XIn1zxAbrv8/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XIn1zxAbrv8/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XIn1zxAbrv8/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "KIe4NRrrYmA",
+            "title": "What's New in Confluence 5 -- Team Collaboration Software",
+            "created_at": "2013-02-26",
+            "comments": "1",
+            "duration": "PT1M28S",
+            "views": "39741",
+            "ratings": 16,
+            "rating": "93.3",
+            "snippet": {
+                "publishedAt": "2013-02-26T17:03:07.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "What's New in Confluence 5 -- Team Collaboration Software",
+                "description": "Learn more about the release: http://www.atlassian.com/en/software/confluence/whats-new/confluence-50.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KIe4NRrrYmA/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KIe4NRrrYmA/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KIe4NRrrYmA/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "lJEK6lh_cvk",
+            "title": "Confluence Team Collaboration Software Overview Video",
+            "created_at": "2013-03-28",
+            "comments": "1",
+            "duration": "PT2M35S",
+            "views": "39059",
+            "ratings": 32,
+            "rating": "93.3",
+            "snippet": {
+                "publishedAt": "2013-03-28T00:39:57.000Z",
+                "channelId": "UCL1yMVRMh3vxitPiVaXfkoA",
+                "title": "Confluence Team Collaboration Software Overview Video",
+                "description": "Learn more: http://www.atlassian.com/software/confluence/overview/team-collaboration-software.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lJEK6lh_cvk/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lJEK6lh_cvk/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lJEK6lh_cvk/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GoAtlassian",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}
