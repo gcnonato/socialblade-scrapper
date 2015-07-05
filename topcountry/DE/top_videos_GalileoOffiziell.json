@@ -1,0 +1,961 @@
+{
+    "videos": [
+        {
+            "videoId": "RClRJAlx0h0",
+            "title": "Test \"Der C-String\" | Galileo | ProSieben",
+            "created_at": "2014-01-11",
+            "comments": "605",
+            "duration": "PT16M1S",
+            "views": "2093763",
+            "ratings": 8420,
+            "rating": "92.7",
+            "snippet": {
+                "publishedAt": "2014-01-11T19:00:03.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Test \"Der C-String\" | Galileo | ProSieben",
+                "description": "Verboten sexy am Strand - Der C-String* http://amzn.to/1I0z6zV ✘ Der C-String für Männer* http://amzn.to/1GK5kiy ✘ Mehr Stoff und trotzdem sexy – Der ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RClRJAlx0h0/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RClRJAlx0h0/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RClRJAlx0h0/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "69yFfn9isP8",
+            "title": "Galileo eXtrem: Doppel-Looping Wasserrutsche | Galileo | ProSieben",
+            "created_at": "2013-10-29",
+            "comments": "1828",
+            "duration": "PT14M45S",
+            "views": "1999500",
+            "ratings": 14379,
+            "rating": "88.5",
+            "snippet": {
+                "publishedAt": "2013-10-29T17:32:33.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Galileo eXtrem: Doppel-Looping Wasserrutsche | Galileo | ProSieben",
+                "description": "Galileo im Web: http://bit.ly/p7galileo Galileo auf Facebook: https://www.facebook.com/Galileo Galileo abonnieren: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/69yFfn9isP8/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/69yFfn9isP8/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/69yFfn9isP8/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "w_dm4d_0w7A",
+            "title": "Mein Leben als stärkstes Kind der Welt | Galileo | ProSieben",
+            "created_at": "2014-02-10",
+            "comments": "351",
+            "duration": "PT14M22S",
+            "views": "1980451",
+            "ratings": 7221,
+            "rating": "90.2",
+            "snippet": {
+                "publishedAt": "2014-02-10T17:34:25.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Mein Leben als stärkstes Kind der Welt | Galileo | ProSieben",
+                "description": "Galileo im Web: http://bit.ly/p7galileo Galileo auf Facebook: https://www.facebook.com/Galileo Zur Favoriten Playliste von Galileo: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w_dm4d_0w7A/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w_dm4d_0w7A/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w_dm4d_0w7A/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "P5dXgSJ_H9E",
+            "title": "Fake Check: 40m Sprung mit der Wasserrutsche ins Planschbecken | Galileo | ProSieben",
+            "created_at": "2013-10-29",
+            "comments": "610",
+            "duration": "PT14M16S",
+            "views": "1924038",
+            "ratings": 9712,
+            "rating": "94.8",
+            "snippet": {
+                "publishedAt": "2013-10-29T17:32:33.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Fake Check: 40m Sprung mit der Wasserrutsche ins Planschbecken | Galileo | ProSieben",
+                "description": "Galileo im Web: http://bit.ly/p7galileo Galileo abonnieren: http://www.youtube.com/subscription_center?add_user=GalileoOffiziell Zur Favoriten Playliste von ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P5dXgSJ_H9E/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P5dXgSJ_H9E/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P5dXgSJ_H9E/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "0XjjitBnjFM",
+            "title": "Wasserrutschen Ranking: Die spektakulärsten Indoor-Rutschen der Welt | Galileo | ProSieben",
+            "created_at": "2013-10-29",
+            "comments": "406",
+            "duration": "PT16M22S",
+            "views": "1878389",
+            "ratings": 8019,
+            "rating": "89.8",
+            "snippet": {
+                "publishedAt": "2013-10-29T17:32:33.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Wasserrutschen Ranking: Die spektakulärsten Indoor-Rutschen der Welt | Galileo | ProSieben",
+                "description": "Galileo im Web: http://bit.ly/p7galileo Galileo auf Facebook: https://www.facebook.com/Galileo Galileo abonnieren: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0XjjitBnjFM/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0XjjitBnjFM/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0XjjitBnjFM/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "bGfdTd7jTOI",
+            "title": "Wir bauen die erste echte Looping-Wasserrutsche der Welt | Galileo | ProSieben",
+            "created_at": "2013-10-29",
+            "comments": "1602",
+            "duration": "PT22M40S",
+            "views": "1726892",
+            "ratings": 21563,
+            "rating": "92.9",
+            "snippet": {
+                "publishedAt": "2013-10-29T17:32:33.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Wir bauen die erste echte Looping-Wasserrutsche der Welt | Galileo | ProSieben",
+                "description": "Galileo im Web: http://bit.ly/p7galileo Galileo auf Facebook: https://www.facebook.com/Galileo Zur Favoriten Playliste von Galileo: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bGfdTd7jTOI/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bGfdTd7jTOI/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bGfdTd7jTOI/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "Xt_xjQ1gcy0",
+            "title": "Geschlechterexperiment: Aus Mann mach Frau! | Galileo | ProSieben",
+            "created_at": "2015-05-11",
+            "comments": "1667",
+            "duration": "PT14M32S",
+            "views": "1721642",
+            "ratings": 17983,
+            "rating": "95.2",
+            "snippet": {
+                "publishedAt": "2015-05-11T16:30:00.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Geschlechterexperiment: Aus Mann mach Frau! | Galileo | ProSieben",
+                "description": "Versuchskaninchen Olcay wird einen Tag in die Rolle einer Frau schlüpfen. Ein Maskenbildner und Experte für Körpersprache verwandeln den Playboy in das ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xt_xjQ1gcy0/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xt_xjQ1gcy0/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xt_xjQ1gcy0/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "toztH6Ql-0Y",
+            "title": "Mein Leben mit Wasserallergie | Galileo | ProSieben",
+            "created_at": "2014-11-03",
+            "comments": "560",
+            "duration": "PT15M15S",
+            "views": "1552814",
+            "ratings": 8821,
+            "rating": "83.7",
+            "snippet": {
+                "publishedAt": "2014-11-03T16:30:02.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Mein Leben mit Wasserallergie | Galileo | ProSieben",
+                "description": "Wenn waschen zur Qual wird! Wir haben einen von 35 weltweit bekannten Fällen gefunden, bei dem die seltene Wasserallergie diagnostiziert wurde: Die ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/toztH6Ql-0Y/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/toztH6Ql-0Y/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/toztH6Ql-0Y/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "ymKQje_9_Qg",
+            "title": "15 Sexmythen in 15 Minuten | Galileo",
+            "created_at": "2014-10-29",
+            "comments": "965",
+            "duration": "PT13M50S",
+            "views": "1531013",
+            "ratings": 11847,
+            "rating": "93.2",
+            "snippet": {
+                "publishedAt": "2014-10-29T15:56:01.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "15 Sexmythen in 15 Minuten | Galileo",
+                "description": "Die schönste Nebensache der Welt ist Gegenstand zahlreicher Mythen. Wir klären 15 dieser Mythen in 15 Sekunden: Gibt es den G-Punkt wirklich? Haben ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ymKQje_9_Qg/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ymKQje_9_Qg/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ymKQje_9_Qg/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "dwc_xBOLOF0",
+            "title": "Das Mädchen mit dem neuen Gesicht | Galileo | ProSieben",
+            "created_at": "2014-03-20",
+            "comments": "438",
+            "duration": "PT16M4S",
+            "views": "1503485",
+            "ratings": 6463,
+            "rating": "91.4",
+            "snippet": {
+                "publishedAt": "2014-03-20T19:00:04.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Das Mädchen mit dem neuen Gesicht | Galileo | ProSieben",
+                "description": "Galileo im Web: http://bit.ly/p7galileo Galileo auf Facebook: https://www.facebook.com/Galileo Zur Favoriten Playliste von Galileo: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dwc_xBOLOF0/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dwc_xBOLOF0/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dwc_xBOLOF0/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "kcyhPOR0HkE",
+            "title": "Die größten Tiere der Welt | Galileo | ProSieben",
+            "created_at": "2014-02-09",
+            "comments": "294",
+            "duration": "PT15M24S",
+            "views": "1118311",
+            "ratings": 4879,
+            "rating": "85.8",
+            "snippet": {
+                "publishedAt": "2014-02-09T19:00:02.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Die größten Tiere der Welt | Galileo | ProSieben",
+                "description": "Galileo im Web: http://bit.ly/p7galileo Galileo auf Facebook: https://www.facebook.com/Galileo Zur Favoriten Playliste von Galileo: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kcyhPOR0HkE/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kcyhPOR0HkE/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kcyhPOR0HkE/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "6YrRi632fC4",
+            "title": "15 in 15: Seitensprung | Galileo | ProSieben",
+            "created_at": "2014-05-14",
+            "comments": "273",
+            "duration": "PT16M19S",
+            "views": "1118152",
+            "ratings": 4400,
+            "rating": "86.7",
+            "snippet": {
+                "publishedAt": "2014-05-14T16:30:02.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "15 in 15: Seitensprung | Galileo | ProSieben",
+                "description": "Galileo im Web: http://bit.ly/p7galileo Galileo auf Facebook: https://www.facebook.com/Galileo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6YrRi632fC4/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6YrRi632fC4/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6YrRi632fC4/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "-haQShdPx-I",
+            "title": "Thrill-Sex-Experiment | Galileo | ProSieben",
+            "created_at": "2014-10-24",
+            "comments": "306",
+            "duration": "PT13M25S",
+            "views": "1100844",
+            "ratings": 6884,
+            "rating": "95.1",
+            "snippet": {
+                "publishedAt": "2014-10-24T14:30:06.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Thrill-Sex-Experiment | Galileo | ProSieben",
+                "description": "Was gibt uns den ultimativen Kick? Ist der Sex für uns wirklich das, was am meisten Gefühle ausschüttet? Galileo macht den großen Sex-Thrill-Test: Sex gegen ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-haQShdPx-I/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-haQShdPx-I/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-haQShdPx-I/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "YQeSEV5sxdY",
+            "title": "Bundeswehr-Wasserrutschen Weltrekord: 24 Stunden rutschen | Galileo | ProSieben",
+            "created_at": "2013-10-29",
+            "comments": "672",
+            "duration": "PT14M27S",
+            "views": "1083112",
+            "ratings": 17118,
+            "rating": "94.8",
+            "snippet": {
+                "publishedAt": "2013-10-29T17:32:33.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Bundeswehr-Wasserrutschen Weltrekord: 24 Stunden rutschen | Galileo | ProSieben",
+                "description": "Galileo im Web: http://bit.ly/p7galileo Galileo auf Facebook: https://www.facebook.com/Galileo Zur Favoriten Playliste von Galileo: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YQeSEV5sxdY/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YQeSEV5sxdY/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YQeSEV5sxdY/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "JdhtzWYsOk0",
+            "title": "Dümmste Bankräuber | Galileo | ProSieben",
+            "created_at": "2015-05-25",
+            "comments": "2410",
+            "duration": "PT14M1S",
+            "views": "1001533",
+            "ratings": 9033,
+            "rating": "91.5",
+            "snippet": {
+                "publishedAt": "2015-05-25T16:30:01.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Dümmste Bankräuber | Galileo | ProSieben",
+                "description": "Soviel Dummheit bleibt nicht ungestraft! Wir zeigen euch die ungeschicktesten Einbrecher. ▻Galileo auf YouTube abonnieren: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JdhtzWYsOk0/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JdhtzWYsOk0/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JdhtzWYsOk0/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "FLPneakytj4",
+            "title": "15 in 15 - Schulmythen | Galileo | ProSieben",
+            "created_at": "2014-05-07",
+            "comments": "550",
+            "duration": "PT10M32S",
+            "views": "936186",
+            "ratings": 6848,
+            "rating": "94.3",
+            "snippet": {
+                "publishedAt": "2014-05-07T16:00:06.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "15 in 15 - Schulmythen | Galileo | ProSieben",
+                "description": "Jetzt heißt es wieder für viele Schüler: 8 Uhr Schulbeginn! Aber ist das wirklich eine gute Zeit, um dem Unterricht aufmerksam zu folgen? Ein weiterer Mythos: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FLPneakytj4/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FLPneakytj4/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FLPneakytj4/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "x7eFZKdRPDk",
+            "title": "Unkaputtbar reloaded - Smartphones | Galileo | ProSieben",
+            "created_at": "2014-06-12",
+            "comments": "753",
+            "duration": "PT9M40S",
+            "views": "932782",
+            "ratings": 5879,
+            "rating": "94.4",
+            "snippet": {
+                "publishedAt": "2014-06-12T10:06:20.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Unkaputtbar reloaded - Smartphones | Galileo | ProSieben",
+                "description": "Galileo im Web: http://bit.ly/p7galileo Galileo auf Facebook: https://www.facebook.com/Galileo Zur Favoriten Playliste von Galileo: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x7eFZKdRPDk/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x7eFZKdRPDk/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x7eFZKdRPDk/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "wdm0JRCPMPs",
+            "title": "Top teuerstes Essen | Galileo | ProSieben",
+            "created_at": "2014-09-04",
+            "comments": "309",
+            "duration": "PT7M40S",
+            "views": "930531",
+            "ratings": 3212,
+            "rating": "81.1",
+            "snippet": {
+                "publishedAt": "2014-09-04T15:30:03.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Top teuerstes Essen | Galileo | ProSieben",
+                "description": "Das flüssige Gold Marokkos: Dabei handelt es sich nicht um kostbare Edelsteine, sondern um Arganöl. Die Berbervölker gewinnen dieses aus den ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wdm0JRCPMPs/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wdm0JRCPMPs/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wdm0JRCPMPs/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "rRKlau906FI",
+            "title": "Top 7 der \"Tödlichen Partys\" | Galileo | ProSieben",
+            "created_at": "2013-11-05",
+            "comments": "919",
+            "duration": "PT10M30S",
+            "views": "914309",
+            "ratings": 13475,
+            "rating": "94.0",
+            "snippet": {
+                "publishedAt": "2013-11-05T12:37:09.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Top 7 der \"Tödlichen Partys\" | Galileo | ProSieben",
+                "description": "Galileo im Web: http://bit.ly/p7galileo Galileo auf Facebook: https://www.facebook.com/Galileo Zur Favoriten Playliste von Galileo: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rRKlau906FI/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rRKlau906FI/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rRKlau906FI/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "fT1TfGQX39c",
+            "title": "Wie verdient man mit YouTube Geld? | Galileo | ProSieben",
+            "created_at": "2014-04-25",
+            "comments": "151",
+            "duration": "PT6M27S",
+            "views": "900577",
+            "ratings": 3831,
+            "rating": "93.0",
+            "snippet": {
+                "publishedAt": "2014-04-25T12:01:24.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Wie verdient man mit YouTube Geld? | Galileo | ProSieben",
+                "description": "Galileo im Web: http://bit.ly/p7galileo Galileo auf Facebook: https://www.facebook.com/Galileo Zur Favoriten Playliste von Galileo: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fT1TfGQX39c/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fT1TfGQX39c/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fT1TfGQX39c/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "n6xM8f4b5cY",
+            "title": "Fake-Check: Rutschen Salto | Galileo | ProSieben",
+            "created_at": "2013-10-23",
+            "comments": "441",
+            "duration": "PT15M9S",
+            "views": "875109",
+            "ratings": 15521,
+            "rating": "94.8",
+            "snippet": {
+                "publishedAt": "2013-10-23T10:47:14.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Fake-Check: Rutschen Salto | Galileo | ProSieben",
+                "description": "Galileo im Web: http://bit.ly/p7galileo Galileo auf Facebook: https://www.facebook.com/Galileo Zur Favoriten Playliste von Galileo: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n6xM8f4b5cY/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n6xM8f4b5cY/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n6xM8f4b5cY/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "qdioVLEXAps",
+            "title": "Skurrile Hotels | Galileo | ProSieben",
+            "created_at": "2014-12-31",
+            "comments": "914",
+            "duration": "PT14M59S",
+            "views": "815154",
+            "ratings": 10015,
+            "rating": "97.2",
+            "snippet": {
+                "publishedAt": "2014-12-31T15:30:01.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Skurrile Hotels | Galileo | ProSieben",
+                "description": "Oft suchen wir, wenn wir auf Reisen sind, nur eine warme Unterkunft für die Nacht. Doch wer sich in diesen Hotels einmietet, macht seinen Aufenthalt zum ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qdioVLEXAps/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qdioVLEXAps/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qdioVLEXAps/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "kV-EUE2RjE8",
+            "title": "Luxusflug eXtrem - Die teuerste Flugklasse der Welt | Galileo | ProSieben",
+            "created_at": "2015-02-03",
+            "comments": "210",
+            "duration": "PT7M52S",
+            "views": "770839",
+            "ratings": 2518,
+            "rating": "94.4",
+            "snippet": {
+                "publishedAt": "2015-02-03T17:30:01.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Luxusflug eXtrem - Die teuerste Flugklasse der Welt | Galileo | ProSieben",
+                "description": "Wenn Du auch komfortabel reisen willst, dann solltest du das J-Pillow Reisekissen http://amzn.to/1Q1YExD probieren. Und damit deine Wertsachen sicher ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kV-EUE2RjE8/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kV-EUE2RjE8/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kV-EUE2RjE8/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "LFi7Tj-0WT8",
+            "title": "Geheimnis Bauch | Galileo | ProSieben",
+            "created_at": "2013-12-21",
+            "comments": "1331",
+            "duration": "PT15M36S",
+            "views": "722093",
+            "ratings": 5534,
+            "rating": "94.0",
+            "snippet": {
+                "publishedAt": "2013-12-21T19:00:03.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Geheimnis Bauch | Galileo | ProSieben",
+                "description": "Galileo im Web: http://bit.ly/p7galileo Galileo auf Facebook: https://www.facebook.com/Galileo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LFi7Tj-0WT8/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LFi7Tj-0WT8/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LFi7Tj-0WT8/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "x-swg7FmHSk",
+            "title": "Duell der Fast-Food Riesen | Galileo",
+            "created_at": "2014-09-19",
+            "comments": "554",
+            "duration": "PT11M56S",
+            "views": "694377",
+            "ratings": 4539,
+            "rating": "97.2",
+            "snippet": {
+                "publishedAt": "2014-09-19T15:00:07.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Duell der Fast-Food Riesen | Galileo",
+                "description": "Burgerbrater im Konkurrenzkampf: Sie gehören mit 2100 Filialen in über 2000 Städten zu den Spitzenreitern der deutschen Fast-Food-Gastronomie.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x-swg7FmHSk/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x-swg7FmHSk/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x-swg7FmHSk/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "xB2m8rO80AQ",
+            "title": "Junge isst Insekten | Galileo",
+            "created_at": "2014-07-30",
+            "comments": "432",
+            "duration": "PT14M54S",
+            "views": "659775",
+            "ratings": 8195,
+            "rating": "96.3",
+            "snippet": {
+                "publishedAt": "2014-07-30T16:30:03.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Junge isst Insekten | Galileo",
+                "description": "Kinder sind verrückt nach Schokolade und allerlei Süßkram. Tibo hat jedoch ganz spezielle Vorlieben und Essgewohnheiten. Larven und Mehlwürmer stehen ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xB2m8rO80AQ/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xB2m8rO80AQ/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xB2m8rO80AQ/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "8b7u6CwNgtk",
+            "title": "Pinkeln gegen den Elektrozaun | Finde den Lügner | Galileo | ProSieben",
+            "created_at": "2015-01-23",
+            "comments": "696",
+            "duration": "PT8M19S",
+            "views": "657671",
+            "ratings": 6855,
+            "rating": "95.9",
+            "snippet": {
+                "publishedAt": "2015-01-23T17:30:01.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Pinkeln gegen den Elektrozaun | Finde den Lügner | Galileo | ProSieben",
+                "description": "Drei Reporter, drei Behauptungen. Bekommt man beim Pinkeln gegen einen Elektrozaun wirklich keinen Stromschlag? Werden Hunde von Wolfsurin ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8b7u6CwNgtk/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8b7u6CwNgtk/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8b7u6CwNgtk/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "itskmLq-Cc0",
+            "title": "Japanische Riesenhornissen | Galileo | ProSieben",
+            "created_at": "2015-04-05",
+            "comments": "540",
+            "duration": "PT14M59S",
+            "views": "640601",
+            "ratings": 3885,
+            "rating": "95.5",
+            "snippet": {
+                "publishedAt": "2015-04-05T12:00:01.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Japanische Riesenhornissen | Galileo | ProSieben",
+                "description": "Galileo für Zuhause*: http://amzn.to/1IpbVfK ----------------------------------------- Dieses Bild zeigt Riesenhornissen, die so groß sind wie eine Hand! Aber gibt es ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/itskmLq-Cc0/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/itskmLq-Cc0/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/itskmLq-Cc0/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "_zgjkzbRV_w",
+            "title": "Leckerste Essen der Welt | Galileo | ProSieben",
+            "created_at": "2014-02-07",
+            "comments": "371",
+            "duration": "PT15M2S",
+            "views": "631151",
+            "ratings": 7665,
+            "rating": "95.5",
+            "snippet": {
+                "publishedAt": "2014-02-07T19:00:04.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Leckerste Essen der Welt | Galileo | ProSieben",
+                "description": "Galileo im Web: http://bit.ly/p7galileo Galileo auf Facebook: https://www.facebook.com/Galileo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_zgjkzbRV_w/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_zgjkzbRV_w/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_zgjkzbRV_w/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "KQKiqnSbd8k",
+            "title": "Lässt sich eine Geige unter Wasser spielen? | Finde den Lügner | Galileo | ProSieben",
+            "created_at": "2015-01-19",
+            "comments": "424",
+            "duration": "PT15M27S",
+            "views": "622017",
+            "ratings": 6192,
+            "rating": "95.0",
+            "snippet": {
+                "publishedAt": "2015-01-19T16:30:03.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Lässt sich eine Geige unter Wasser spielen? | Finde den Lügner | Galileo | ProSieben",
+                "description": "Lässt sich eine Geige Unterwasser spielen? Kann man ein Gesicht aus einem Felsen sprengen? Und ist es möglich, Seifenblasen in einem Paket zu ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KQKiqnSbd8k/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KQKiqnSbd8k/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KQKiqnSbd8k/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "dKJ3o5opXm0",
+            "title": "Hoverboard, Essen drucken & Mind Control | Finde den Lügner | Galileo | ProSieben",
+            "created_at": "2015-01-24",
+            "comments": "197",
+            "duration": "PT10M36S",
+            "views": "613743",
+            "ratings": 3168,
+            "rating": "92.9",
+            "snippet": {
+                "publishedAt": "2015-01-24T14:00:11.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Hoverboard, Essen drucken & Mind Control | Finde den Lügner | Galileo | ProSieben",
+                "description": "Funda, Matthias und Jumbo machen aus Science Fiction ins Real Life ?? aber wer von ihnen lügt und welche Erfindung gibt es in Wirklichkeit noch gar nicht?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dKJ3o5opXm0/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dKJ3o5opXm0/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dKJ3o5opXm0/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "N9Tgj4NFceQ",
+            "title": "Weg des Echthaars | Galileo | ProSieben",
+            "created_at": "2015-03-28",
+            "comments": "568",
+            "duration": "PT15M31S",
+            "views": "597615",
+            "ratings": 19499,
+            "rating": "98.3",
+            "snippet": {
+                "publishedAt": "2015-03-28T13:00:01.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Weg des Echthaars | Galileo | ProSieben",
+                "description": "Galileo der menschliche Körper*: http://amzn.to/1MppRZp ----------------------------------------------------------------------------------------------Von der glatten Kurzfrisur zur ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N9Tgj4NFceQ/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N9Tgj4NFceQ/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N9Tgj4NFceQ/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "videoId": "2hfl5RVdMz4",
+            "title": "Die Wassermelonen-Torte mit Sallys Tortenwelt | Galileo | ProSieben",
+            "created_at": "2015-06-19",
+            "comments": "465",
+            "duration": "PT15M21S",
+            "views": "591914",
+            "ratings": 14361,
+            "rating": "96.8",
+            "snippet": {
+                "publishedAt": "2015-06-19T16:00:00.000Z",
+                "channelId": "UC1XrG1M_hw8103zO2x-oivg",
+                "title": "Die Wassermelonen-Torte mit Sallys Tortenwelt | Galileo | ProSieben",
+                "description": "Einfach zum Anbeißen! Deutschlands erfolgreichste YouTube-Bäckerin Sally zaubert für Galileo die süßesten Tortenkreationen. ▻Noch mehr Food & Galileo: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2hfl5RVdMz4/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2hfl5RVdMz4/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2hfl5RVdMz4/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "GalileoOffiziell",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}
