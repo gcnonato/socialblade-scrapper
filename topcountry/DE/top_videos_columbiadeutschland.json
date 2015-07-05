@@ -1,0 +1,33 @@
+{
+    "videos": [
+        {
+            "videoId": "bWUtEW-iYhI",
+            "title": "Madcon - Glow",
+            "created_at": "2010-06-09",
+            "comments": "12917",
+            "duration": "PT4M42S",
+            "views": "19439909",
+            "ratings": 50408,
+            "rating": "97.6",
+            "snippet": {
+                "publishedAt": "2010-06-09T10:13:13.000Z",
+                "channelId": "UCuGcxogeiX5DbfzBMTl_aZQ",
+                "title": "Madcon - Glow",
+                "description": "Die Single \"Glow\" vom \"Eurovision Songcontest\"!!! Erhältlich unter: http://www.amazon.de/exec/obidos/ASIN/B003P0W2V2/sonymusic-21 Weitere Information ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bWUtEW-iYhI/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bWUtEW-iYhI/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bWUtEW-iYhI/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "columbiadeutschland",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}
