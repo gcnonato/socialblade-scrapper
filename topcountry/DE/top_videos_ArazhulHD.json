@@ -1,0 +1,33 @@
+{
+    "videos": [
+        {
+            "videoId": "d0Gwnkhvm6Y",
+            "title": "[Deutsch] Minecraft Griefing - 3720 € Ergrieft",
+            "created_at": "2013-04-15",
+            "comments": "592",
+            "duration": "PT16M16S",
+            "views": "311757",
+            "ratings": 5722,
+            "rating": "97.2",
+            "snippet": {
+                "publishedAt": "2013-04-15T17:25:39.000Z",
+                "channelId": "UCdo4IIRJlEaln7ZHZHzFNIw",
+                "title": "[Deutsch] Minecraft Griefing - 3720 € Ergrieft",
+                "description": "Ein Arazhul werden: http://www.youtube.com/subscription_center?add_user=ArazhulHD ? Facebook Seite ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d0Gwnkhvm6Y/default.jpg"
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d0Gwnkhvm6Y/mqdefault.jpg"
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d0Gwnkhvm6Y/hqdefault.jpg"
+                    }
+                },
+                "channelTitle": "ArazhulHD",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}
